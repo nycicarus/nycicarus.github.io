@@ -1,8 +1,8 @@
 # Site settings
-title: NYC Icarus Hub
+title: NYC Icarus
 header-img: img/home-bg.jpg
 email: nycicarus@gmail.com
-description: "We are the local New York City Icarus Project chapter" 
+description: "The Icarus Project, New York, NY" 
 baseurl: ""
 url: "http://nycicarus.github.io"
 twitter_username: nycicarus
