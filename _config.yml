@@ -1,0 +1,17 @@
+# Site settings
+title: NYC Icarus Hub
+header-img: img/home-bg.jpg
+email: nycicarus@gmail.com
+description: "We are the local New York City Icarus Project chapter" 
+baseurl: ""
+url: "http://nycicarus.github.io"
+twitter_username: NYCIcaurs
+github_username:  nycicarus
+facebook_username:  IcarusProjectNewYorkCity
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
