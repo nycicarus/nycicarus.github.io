@@ -1,0 +1,19 @@
+h1{ color:red;}
+
+body {
+    font-family: "Lekton","Lora","Times New Roman",serif;
+    }
+
+section {
+    padding: 100px 0;
+}
+
+section h2 {
+    margin: 0;
+    font-size: 3em;
+}
+
+section.success {
+    color: #fff;
+    background: #B5CDE2;
+}

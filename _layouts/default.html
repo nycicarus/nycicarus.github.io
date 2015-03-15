@@ -4,11 +4,14 @@
 {% include head.html %}
 
 <body id="page-top">
+   {% if page.url  == '/' %}
+      {% include nav-index.html %}
+   {% else %}
+      {% include nav.html %}
+   {% endif %}
 
-    {% include nav-index.html %}
 
-
-    {{ content }}
+   {{ content }}
 
     {% include footer.html %}
 
