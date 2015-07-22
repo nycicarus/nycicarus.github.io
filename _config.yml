@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: The Icarus Project NYC
-description: "The Icarus Project NYC, a mental health grassroots organization commited to advocacy, community, and the creative arts."
+description: "Website for The Icarus Project NYC, a mental health grassroots organization commited to advocacy, community, and the creative arts."
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
@@ -27,8 +27,8 @@ owner:
   email: nycicarus@gmail.com
   twitter: nycicarus
   bio: "The Icarus Project NYC is a mental health grassroots organization commited to advocacy, community, and the creative arts."
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  google: 
+  avatar: logo-avatar-160x160.png # 160x160 px image for author byline
+  google:
     plus: 
     ad-client: 
     ad-slot: 
