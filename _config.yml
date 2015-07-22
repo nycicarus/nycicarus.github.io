@@ -28,8 +28,8 @@ owner:
   twitter: nycicarus
   bio: "The Icarus Project NYC is a mental health grassroots organization commited to advocacy, community, and the creative arts."
   avatar: bio-photo.jpg # 160x160 px image for author byline
-  google: nycicarus
-    plus: +nycicarus
+  google: 
+    plus: 
     ad-client: 
     ad-slot: 
   disqus-shortname: nycicarus
