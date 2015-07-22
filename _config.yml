@@ -1,17 +1,38 @@
-# Site settings
-title: NYC Icarus
-header-img: img/home-bg.jpg
-email: nycicarus@gmail.com
-description: "The Icarus Project, New York, NY" 
-baseurl: ""
-url: "http://nycicarus.github.io"
-twitter_username: nycicarus
-github_username:  nycicarus
-facebook_username:  IcarusProjectNewYorkCity
+# Site wide configuration
 
-# Build settings
-markdown: kramdown
+title: The Icarus Project NYC
+description: "The Icarus Project NYC, a mental health grassroots organization commited to advocacy, community, and the creative arts."
+logo: 120x120.gif
+teaser: 400x250.gif
+locale: en_US
+url: //nycicarus.github.io
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
 highlighter: pygments
-permalink: pretty
-paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name: NYC Icarus
+  web: http://nycicarus.org
+  email: nycicarus@gmail.com
+  twitter: nycicarus
+  bio: "The Icarus Project NYC is a mental health grassroots organization commited to advocacy, community, and the creative arts."
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  google: nycicarus
+    plus: +nycicarus
+    ad-client: 
+    ad-slot: 
+  disqus-shortname: nycicarus
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

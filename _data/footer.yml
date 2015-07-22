@@ -1,0 +1,13 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: Get Involved
+  url: /get-involved/
+
+- title: About
+  url: /about/
+
+- title: Contact
+  url: /contact/

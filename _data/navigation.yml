@@ -1,0 +1,26 @@
+# Site navigation links
+
+- title: Get Involved
+  url: /get-involved/
+  excerpt: "Get all the goods on NYC Icarus events and news, maybe you can even lend a helping hand."
+  image: join-nav-400x250.png
+
+- title: Events
+  url: /events/
+  excerpt: "Events, workshops and celebrations for our peers and our allies."
+  image: events-nav-400x250.png
+
+- title: Publications/Media
+  url: /publications-media/
+  excerpt: "Guides, news, essays, publications and more."
+  image: publications-nav-400x250.png
+
+- title: Resources
+  url: /resources/
+  excerpt: "Organizations, services, places, and people that can help."
+  image: resources-nav-400x250.png
+
+- title: About
+  url: /about/
+  excerpt: "The Who, Why, and What of NYC Icarus."
+  image: about-nav-400x250.png
