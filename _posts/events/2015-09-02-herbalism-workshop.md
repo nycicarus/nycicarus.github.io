@@ -24,10 +24,11 @@ phone: ""
 ---
 ### NYC Icarus Herbalism Workshop
 
+#### Meet Our Herbal Allies: Build Knowledge For Herbal Self Care
 #### Presented by NYC Icarus organizer Christine Guryev.
 
 
-Details coming soon.
+Join NYC Icarus organizer Christine Guryev and friends as they Share stories and information about their favorite plant allies for mood and mind! See, smell and discuss the likes of nettle, oatstraw, motherwort and ashwaganda. We will also be sampling infusions, herbal concoctions and herbs for sale courtesy of the [Herb Shoppe of Brooklyn](http://www.theherbshoppe.net/). Their very own Jacqui Daniels will be enlightening us with adaptogens and more!
 
 
 Hope to see you there!
