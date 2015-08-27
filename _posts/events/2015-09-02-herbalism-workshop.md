@@ -3,7 +3,7 @@ layout: article
 title: "Herbalism Workshop with Christine Guryev"
 categories: events
 description: "Herbalism Workshop."
-excerpt: "Join NYC Icarus organizer Christine Guryev and friends as they Share stories and information about their favorite plant allies for mood and mind!"
+excerpt: "Join NYC Icarus organizer Christine Guryev, Jacqui Daniels and friends as they Share stories and information about their favorite plant allies for mood and mind!"
 modified: 2015-07-07T11:57:41-04:00
 tags: [ meditation , dance , workshop ]
 comments: true
