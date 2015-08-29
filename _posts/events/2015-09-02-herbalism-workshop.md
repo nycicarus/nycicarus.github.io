@@ -30,7 +30,7 @@ phone: ""
 
 Join NYC Icarus organizer Christine Guryev and friends as they Share stories and information about their favorite plant allies for mood and mind! See, smell and discuss the likes of nettle, oatstraw, motherwort and ashwaganda. We will also be sampling infusions, herbal concoctions and herbs for sale courtesy of the [Herb Shoppe of Brooklyn](http://www.theherbshoppebrooklyn.com/). Their very own Jacqui Daniels will be enlightening us with adaptogens and more!
 
-Facebook Event: https://www.facebook.com/events/916054918466692/
+Facebook Event: [NYC Icarus Herbalism Workshop](https://www.facebook.com/events/916054918466692/)
 
 Hope to see you there!
 
