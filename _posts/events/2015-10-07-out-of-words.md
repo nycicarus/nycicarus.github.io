@@ -3,8 +3,7 @@ layout: article
 title: "Out of Words: An Experiment in Wordless Expressions"
 categories: events
 description: "Herbalism Workshop."
-excerpt: "Join us at Bluestockings next Wednesday for an evening of collaborative audio and visual expression 
-(no artistic experience or skill necessary)!"
+excerpt: "Join us at Bluestockings next Wednesday for an evening of collaborative audio and visual expression (no artistic experience or skill necessary)!"
 modified: 2015-10-07T11:57:41-04:00
 tags: [ crafts , multimedia , workshop ]
 comments: true
@@ -26,6 +25,7 @@ phone: ""
 ### NYC Icarus - Out of Words Workshop
 
 #### Join us at Bluestockings next Wednesday for an evening of collaborative audio and visual expression (no artistic experience or skill necessary)!
+
 #### Co-hosted by NYC Icarus and PROPELLER
 
 Join us for a hands-on workshop exploring collaborative creativity and non-verbal expression. We will be collectively expressing and exploring resonant emotions by interpreting them as sounds with our voices and bodies as well as by translating them into live internet soundscapes and real-world visual collages. The event will end with a discussion in which group members investigate their experiences and articulate what stood out to them, what emotions came up for them, what meaning the experience had (or didn’t have) for them, and what they think the larger implications of their experience might be.
