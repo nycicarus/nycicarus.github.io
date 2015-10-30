@@ -10,7 +10,7 @@ comments: true
 ads: false
 image:
   teaser: snakes.jpg
-  feature: skakes.jpg
+  feature: snakes.jpg
   credit: 
   creditlink: 
 event-date: "Wednesday, November 4th, 2015"
