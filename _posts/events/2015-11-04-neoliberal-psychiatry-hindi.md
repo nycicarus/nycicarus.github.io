@@ -35,6 +35,8 @@ Dr. Hindi's opinions are personal and do not reflect the views of SUNY, the APA 
 
 Facebook Event: [NYC Icarus - Psychiatry and Mental Health in the Neoliberal Age](https://www.facebook.com/events/1662245644065233/)
 
+Event Graphic by: Nadya
+
 Hope to see you there!
 
 Mad love,
