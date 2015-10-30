@@ -24,7 +24,7 @@ phone: ""
 ---
 ### NYC Icarus - At First You Can Say We Are Doing Everything Right; Psychiatry in the age of Mental Health and Neoliberal Policy
 
-#### Join us at Bluestockings next Wednesday for a presentation followed by Q&A with special guest, Professor Amjad Hindi.
+#### Join us at Bluestockings Wednesday Nov 4th for a presentation followed by Q&A with special guest, Professor Amjad Hindi.
 
 Join us for a presentation and a Q/A with Amjad Hindi MD, a psychiatrist and a member of the Radical Caucus of the APA and the Critical Psychiatry Committee of the Group for Advancement of Psychiatry (GAP). He will be discussing the impact of Neoliberal Policy on Psychiatric Care and the polemics of Mental Health.He invites all the attendants to propose solutions for better health care delivery.
 
