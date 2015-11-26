@@ -28,11 +28,11 @@ phone: ""
 
 The Icarus NYC Chapter is celebrating a successful year of Bluestockings events with a social centered around our most significant principles: [Friends Make The Best Medicine](http://www.theicarusproject.net/icarus-downloads/friends-make-the-best-medicine). 
 
-NYC Icarus has long had a vision of small, self-formed peer-support groups organized according to various themes springing up all over the city.  As described in the article [(A small group of) friends make the best medicine](http://www.theicarusproject.net/icarus-downloads/friends-make-the-best-medicine), this model of organizing groups repsonds to the history of challenges NYC has faced with large, centralized traditional peer-support groups. 
+NYC Icarus has long had a vision of small, self-formed peer-support groups organized according to various themes springing up all over the city.  As described in the article [(A small group of) friends make the best medicine](http://www.theicarusproject.net/icarus-downloads/friends-make-the-best-medicine), this model of organizing groups responds to the history of challenges NYC has faced with large, centralized traditional peer-support groups. 
 
 What better way to activate this vision with a little matchmaking... or as we like to call  it: "mad" making?  It's like speed dating for the soul....but a lot less awkward and with refreshments. Through ensemble building games, arts and crafts, and a workshop of Icarus's 2013 zine "Friends Make The Best Medicine", we hope that our community will get to connect, form bonds, find common ground and most importantly HAVE FUN. Take a break from the holiday blues and join us for some madmaking on December 2nd at The Bluestockings Bookstore and Activist Center at 7pm.
 
-Facebook Event: [NYC Icarus -  A Madmaking Social:Rebooting the Discussion Around Peer Support ](https://www.facebook.com/events/474363299433982/)
+Facebook Event: [NYC Icarus -  A Mad making Social:Rebooting the Discussion Around Peer Support ](https://www.facebook.com/events/474363299433982/)
 
 Event Graphic by: Kevix
 
