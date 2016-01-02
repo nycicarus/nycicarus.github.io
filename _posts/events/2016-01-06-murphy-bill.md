@@ -24,7 +24,7 @@ phone: ""
 ---
 ### NYC Icarus - Helping or Harming? Tim Murphy’s (R-PA) Mental Health Crisis Act
 
-#### Join us at Bluestockings January Dec 6th for a night of mad policy
+#### Join us at Bluestockings January Dec 6th, 7pm for a night of mad policy.
 
 This month NYC Icarus will host a discussion about the “Murphy Bill”, also known as Helping Families in Mental Health Crisis Act of 2015 ([H.R.2646](http://murphy.house.gov/helpingfamiliesinmentalhealthcrisisact)), and the Campaign for [Real Mental Health Change](http://realmhchange.org/). As debates over gun control in the US are diverted to debates about mental health policy, a dangerous bill is winding its way through congressional subcommittees that imminently threatens everyone’s health, safety and liberty. First, we will introduce the bill and it’s most problematic features. Workshop participants will be invited to speak about how the bill will affect them, and we will critique the bill's underlying assumptions about mental health and violence, forced and pre-emptive treatment and the threats it poses to civil liberties and patient privacy. 
 
