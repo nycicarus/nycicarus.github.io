@@ -34,7 +34,7 @@ All NYC Icarus events try to create a space for [Mad Making](http://nycicarus.or
 
 Facebook Event: [NYC Icarus - Helping or Harming? Tim Murphy’s (R-PA) Mental Health Crisis Act](https://www.facebook.com/events/1183598028320487/)
 
-Event Graphic by: Nadia
+Event Graphic by: Nadya
 
 Hope to see you there!
 
