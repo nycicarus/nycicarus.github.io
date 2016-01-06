@@ -9,7 +9,7 @@ tags: [ speaker , radical-caucus , critical-psychiatry ]
 comments: true
 ads: false
 image:
-  teaser: snakes.jpg
+  teaser: snakes-400x250.png
   feature: snakes.jpg
   credit: 
   creditlink: 
