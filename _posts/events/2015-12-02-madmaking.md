@@ -9,7 +9,7 @@ tags: [ workshop , social , peer-support, mutual-aid ]
 comments: true
 ads: false
 image:
-  teaser: madmaking.png
+  teaser: madmaking-400x250.png
   feature: madmaking.png
   credit: 
   creditlink: 
