@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Herbalism Workshop with Christine Guryev"
+title: "Herbalism Workshop"
 categories: events
 description: "Herbalism Workshop."
 excerpt: "Join an NYC Icarus organizer, Jacqui Daniels and friends as they Share stories and information about their favorite plant allies for mood and mind!"
