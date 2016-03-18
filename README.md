@@ -1,6 +1,6 @@
 # The Icarus Project NYC Website
 
-I'm developing a small, simple, easy to replicate website for The Icarus Project NYC. The goal is to have other local chapters of Icarus use this site as a template for their own websites, which could also be hosted for free on GitHub.
+I'm developing a small, simple, easy to replicate website for The Icarus Project NYC. The goal is to have other local chapters of Icarus use this site as a template for their own websites, which could also be hosted for free on GitHub. We began our chapter in 2014.
 
 Because most of NYC Icarus' activities are event related, events are the focus of the site.
 
