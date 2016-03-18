@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Film and Discussion with Filmmaker: Daniel Mackler's <<Coming Off Psych Drugs>>"
+title: "Film and Discussion with Filmmaker: Daniel Mackler's _Coming Off Psych Drugs_"
 categories: events
 description: "filmmaker Daniel Mackler will host a screening and discussion about withdrawl"
 excerpt: "This month NYC Icarus and filmmaker Daniel Mackler will host a screening and  discussion about withdrawl on March 2nd at 7pm at the Bluestockings Bookstore and Activist Center.  A question and answer session will promptly follow." 
