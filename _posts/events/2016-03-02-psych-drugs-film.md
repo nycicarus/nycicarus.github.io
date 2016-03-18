@@ -10,7 +10,7 @@ comments: true
 ads: false
 image:
   teaser: murphysml.jpg
-  feature: "psychdrugs.jpg"
+  feature: "psychdrugs-1600x800.png"
   credit: 
   creditlink: 
 event-date: "Wednesday, March 2nd 2016"
