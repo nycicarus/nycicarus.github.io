@@ -16,7 +16,7 @@ image:
 event-date: "Wednesday, January 6th, 2016"
 event-time: "7:00 pm - 9:00 pm"
 location: "Bluestockings Books"
-location-street: "3172 Allen Street"
+location-street: "172 Allen Street"
 location-city-state: "New York, NY"
 website: ""
 email: ""
