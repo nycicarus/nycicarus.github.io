@@ -9,8 +9,8 @@ tags: [ workshop , social , peer-support, mutual-aid ]
 comments: true
 ads: false
 image:
-  teaser: 
-  feature: 
+  teaser: madmaking-400x250.png
+  feature: madmaking.png
   credit: 
   creditlink: 
 event-date: "Wednesday, April 6th 2016"
