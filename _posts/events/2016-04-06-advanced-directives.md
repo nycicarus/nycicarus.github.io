@@ -40,8 +40,6 @@ All NYC Icarus events try to create a space for [Mad Making](http://nycicarus.or
 
 Facebook Event: [NYC Icarus - Psychiatric Advanced Directives: How to Create Crisis Plans and Rally Your Community in Times of Need](https://www.facebook.com/events/1699127077037346/) 
 
-Facebook Event: [NYC Icarus - Celebrating and Caring for Our Mad Love](https://www.facebook.com/events/683590611743979/)
-
 Event Graphic by: Kevix
 
 Hope to see you there!
