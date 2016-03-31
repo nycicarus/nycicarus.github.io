@@ -3,7 +3,7 @@ layout: article
 title: "Psychiatric Advanced Directives: How to Create Crisis Plans and Rally Your Community in Times of Need"
 categories: events
 description: "NYC Icarus organizer Jazmine Russell with present on a plan to support your wellness with your chosen community"
-excerpt: "This month NYC Icarus organizer Jazmine Russell will present tools the can enable you and your chosen community on April 6nd at 7pm at the Bluestockings Bookstore and Activist Center.  A question and answer session will promptly follow."
+excerpt: "This month NYC Icarus organizer Jazmine Russell will present tools the can enable you and your chosen community on April 6th at 7pm at the Bluestockings Bookstore and Activist Center.  A question and answer session will promptly follow."
 modified: 2015-10-20T11:57:41-04:00
 tags: [ workshop , social , peer-support, mutual-aid ]
 comments: true
@@ -13,7 +13,7 @@ image:
   feature: psychdrugs-1600x800.jpg
   credit: 
   creditlink: 
-event-date: "Wednesday, April 6nd 2016"
+event-date: "Wednesday, April 6th 2016"
 event-time: "7:00 pm - 9:00 pm"
 location: "Bluestockings Books"
 location-street: "172 Allen Street"
@@ -24,7 +24,7 @@ phone: ""
 ---
 ### NYC Icarus - Psychiatric Advanced Directives: How to Create Crisis Plans and Rally Your Community in Times of Need
 
-#### Join us at Bluestockings April 6nd, 7pm for a presentation and discussion about your wellness plans
+#### Join us at Bluestockings April 6th, 7pm for a presentation and discussion about your wellness plans
 
 Psychiatric Advanced Directives: How to Create Crisis Plans and Rally Your Community in Times of Need
 
