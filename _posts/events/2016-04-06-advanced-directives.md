@@ -39,6 +39,9 @@ This month NYC Icarus organizer Jazmine Russell will present tools the can enabl
 All NYC Icarus events try to create a space for [Mad Making](http://nycicarus.org/events/madmaking/) - where community members can self-organize their own peer-support groups.
 
 Facebook Event: [NYC Icarus - Psychiatric Advanced Directives: How to Create Crisis Plans and Rally Your Community in Times of Need](https://www.facebook.com/events/1699127077037346/) 
+
+Facebook Event: [NYC Icarus - Celebrating and Caring for Our Mad Love](https://www.facebook.com/events/683590611743979/)
+
 Event Graphic by: Kevix
 
 Hope to see you there!
@@ -46,3 +49,4 @@ Hope to see you there!
 Mad love,
 
 Icarus Project NYC
+
