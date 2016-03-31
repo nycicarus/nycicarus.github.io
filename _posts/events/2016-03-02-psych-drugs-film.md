@@ -41,4 +41,4 @@ Hope to see you there!
 
 Mad love,
 
-Icarus Project NYC
+Icarus Project NYC...
