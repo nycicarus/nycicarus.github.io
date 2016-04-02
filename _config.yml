@@ -19,7 +19,7 @@ highlighter: pygments
 gems:
   - jekyll-sitemap
 
-future: true
+future: false
 
 # Site owner
 owner:
