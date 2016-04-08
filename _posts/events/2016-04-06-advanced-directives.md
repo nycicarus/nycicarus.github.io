@@ -50,3 +50,4 @@ Mad love,
 
 Icarus Project NYC
 
+event resouces are linked [here](/articles/advanced-directives/)
