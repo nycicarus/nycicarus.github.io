@@ -17,7 +17,7 @@ date: 2016-04-01
 
 Here are a collection of documents in PDF format from the advanced directives presentation.
 
-[Download the presentation](url)
+[Download the presentation](/image/2016-04-08-icarus-nyc-advanced-directives-handout.pdf)
 
 [Download the nyprs info](url)
 
