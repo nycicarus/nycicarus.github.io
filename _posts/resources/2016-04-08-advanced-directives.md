@@ -19,6 +19,6 @@ Here are a collection of documents in PDF format from the advanced directives pr
 
 [Download the presentation](/images/2016-04-08-icarus-nyc-advanced-directives-handout.pdf)
 
-[Download the nyprs info](url)
+[Download the nyprs info](/images/2016-04-08-icarus-nyc-nyprs-info.pdf)
 
-[Download the new york hcpra info](url)
+[Download the new york hcpra info](/images/2016-04-08-icarus-nyc-new-york-hcpra.pdf)
