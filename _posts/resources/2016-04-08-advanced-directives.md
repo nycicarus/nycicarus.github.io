@@ -6,11 +6,11 @@ categories: articles
 excerpt: "a collection of documents and photos from the presentation"
 tags: [publication]
 image:
-  teaser: friends-best-medicine-400x250.png
-  feature: friends-best-medicine-1600x800.png
+  teaser: 20160406_193313-bright.jpg
+  feature: 20160406_193313-bright.jpg	
   credit: 
   creditlink: 
-  thumb: friends-best-medicine-400x250.png
+  thumb: 20160406_193313-bright.jpg
 date: 2016-04-01
 ---
 
