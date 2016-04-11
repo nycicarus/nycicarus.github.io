@@ -9,8 +9,8 @@ tags: [Activism , advanced directives, education, publication]
 comments: true
 ads: false
 image:
-  teaser: 20160406_193313-bright.jpg
-  feature: 20160406_193313-bright.jpg
+  teaser: 2016-04-jaz-brite-400x250.png
+  feature: 2016-04-jaz-brite-1600x800.png
   credit: kevix
   creditlink: http://kevix.org
 resource-date: "n/a"
