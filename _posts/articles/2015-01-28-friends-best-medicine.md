@@ -19,4 +19,6 @@ We've outlined a bunch of ideas to help you gather people together to start expl
 
 [Download this Publication in English](http://www.theicarusproject.net/icarus-downloads/friends-make-the-best-medicine)
 
+[view this Publication in English](http://ram-a.net/sites/default/files/FMTBM_final_wcovers.pdf)
+
 [Download this Publication in Spanish](https://laisladeka.wordpress.com/facilitacion-de-grupos/)
