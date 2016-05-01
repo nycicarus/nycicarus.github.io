@@ -37,7 +37,7 @@ Art has been a powerful therapeutic tool  for many people who have gone through 
 
 On May 4th at 7pm  at the Bluestockings Bookstore and Activist Center we will open the floor for sharing of: visual art, poems, theatre pieces, songs, stories or even just a chance to talk about madness and how it relates to you. 
 
-If you are interested in sharing and would like a spot on the list  please email Icarus organizer Josh Krieble at propellerproject@gmail.com
+If you are interested in sharing and would like a spot on the list  please email Icarus organizer Josh Krieble at propellerproject@gmail.com.
 
 Shares are encouraged to be within the time range of 3-5 minutes. Internet access and a projection screen will be provided if any music or multimedia support is needed. 
 Hope to see you there!
