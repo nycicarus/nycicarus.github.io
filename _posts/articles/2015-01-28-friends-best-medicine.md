@@ -17,8 +17,12 @@ date: 2015-07-29T22:08:14-05:00
 
 We've outlined a bunch of ideas to help you gather people together to start exploring all the brilliance and confusion we hold inside. We hope these suggestions spark you to start talking, yelling, screaming, dancing, making art, and collaborating on changing the world around you. We hope you make it a little less gray and lonely and cold. We hope you find words for all the pieces of you, even the jagged ones full of scars, and we hope you can put them together with the community around you and discover that you are not actually alone. There are so many of us out here and we're waiting for you to join us in all your crooked beauty and madness.
 
-[Download this Publication in English](http://www.theicarusproject.net/icarus-downloads/friends-make-the-best-medicine)
+Download this publication in English:
+[from The Icarus Project website--broken in 2015](http://www.theicarusproject.net/icarus-downloads/friends-make-the-best-medicine)
 
-[view this Publication in English](http://ram-a.net/sites/default/files/FMTBM_final_wcovers.pdf)
+[from Ram-a.net--not working or slow](http://ram-a.net/sites/default/files/FMTBM_final_wcovers.pdf)
 
-[Download this Publication in Spanish](https://laisladeka.wordpress.com/facilitacion-de-grupos/)
+[from this site](/images/fmtbm.pdf) link
+
+Download this publication in Spanish (from Spain):
+[from la isla de ka website](https://laisladeka.wordpress.com/facilitacion-de-grupos/)
