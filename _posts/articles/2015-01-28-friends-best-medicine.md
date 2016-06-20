@@ -23,7 +23,7 @@ Download this publication in English:
 
 [from Ram-a.net--not working or slow](http://ram-a.net/sites/default/files/FMTBM_final_wcovers.pdf)
 
-[from this site](/images/fmtbm.pdf) link
+[from this site](/images/fmtbm.pdf)
 
 Download this publication in Spanish (from Spain):
 [from la isla de ka website](https://laisladeka.wordpress.com/facilitacion-de-grupos/)
