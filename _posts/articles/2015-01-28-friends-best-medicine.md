@@ -26,4 +26,5 @@ Download this publication in English:
 [from this site](/images/fmtbm.pdf)
 
 Download this publication in Spanish (from Spain):
+
 [from la isla de ka website](https://laisladeka.wordpress.com/facilitacion-de-grupos/)
