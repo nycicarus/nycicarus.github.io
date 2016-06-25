@@ -19,6 +19,7 @@ highlighter: rouge
 gems:
   - jekyll-sitemap
 
+# please leave this value set to true. The way we use this blog, we publish events in the future regularly.
 future: true
 
 # Site owner
