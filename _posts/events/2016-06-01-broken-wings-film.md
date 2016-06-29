@@ -24,7 +24,7 @@ phone: ""
 ---
 ### NYC Icarus - Film and Discussion: Daniel Mackler's "Take These Broken Wings"
 
-#### Join us at Bluestockings March 2nd, 7pm for a viewing and discussion of schizophrenia.
+#### Join us at Bluestockings June 1st, 7pm for a viewing and discussion of schizophrenia.
 
 This month NYC Icarus will host a screening and  discussion about schizophrenia on June 1st at 7pm at the Bluestockings Bookstore and Activist Center.  A question and answer session will promptly follow.  
 
