@@ -3,8 +3,7 @@ layout: article
 title: "A viewing & discussion of "Take These Broken Wings: Recovery from Schizophrenia without Medication"
 categories: events
 description: "The NYC Icarus project will host a screening and discussion about schizophrenia"
-excerpt: "This month NYC Icarus will host a screening and  discussion about schizophrenia on June 1st at 7pm at the Bluestockings Bookstore and Activist Center.  A question and answer session will promptly follow." 
-modified: 2015-04-20T11:57:41-04:00
+excerpt: "This month NYC Icarus will host a screening and  discussion about schizophrenia on June 1st at 7pm at the Bluestockings Bookstore and Activist Center.  A question and answer session will promptly follow."
 tags: [ workshop , social , peer-support, mutual-aid ]
 comments: true
 ads: false
