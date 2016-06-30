@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Crowdsourcing for Projects In Action - #FirstResponse"
+title: "Crowdsourcing for Projects In Action - #FirstResort"
 categories: events
 description: "The NYC Icarus project will host a multipart event highlighting Orlando, talking about the Murphy Bill and new viral campaign"
 excerpt: "This month NYC Icarus will host a multipart event highlighting Orlando, talking about the Murphy Bill and seeking to co-create a viral video campaign"
@@ -24,7 +24,7 @@ website: ""
 email: ""
 phone: ""
 ---
-### NYC Icarus - Crowdsourcing for Projects In Action - #FirstResponse
+### NYC Icarus - Crowdsourcing for Projects In Action - #FirstResort
 
 #### Join us at Bluestockings July 6th, 7pm for a multipart event around mad rights
 
