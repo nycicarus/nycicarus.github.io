@@ -11,8 +11,8 @@ tags: [ workshop , social , peer-support, mutual-aid ]
 comments: true
 ads: false
 image:
-  teaser: psychmeds-400x250.jpg
-  feature: psychdrugs-1600x800.jpg
+  teaser: viralvid.jpg
+  feature: viralvid.jpg
   credit: 
   creditlink: 
 event-date: "Wednesday, July 6st 2016"
