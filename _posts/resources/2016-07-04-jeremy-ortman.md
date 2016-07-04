@@ -26,7 +26,7 @@ phone: "(646) 707-2224"
 
 ### JEREMY P. ORTMAN, LMHC 
 
-#### [http://www.jeremyortman](website)
+#### (http://www.jeremyortman)[website]
 
 #### Get to know me
 I am a New York State Licensed Mental Health Counselor. In addition to my private practice, I serve as an adjunct faculty member at Columbia University, Teachers College.  Formerly, I oversaw the Mental Health and Substance Abuse Counseling department at the HIV/AIDS organization, GMHC.  I earned an advanced Master’s Degree in Counseling Psychology from Columbia University, Teachers College and a Bachelor's Degree from Brandeis University. 
