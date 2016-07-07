@@ -35,7 +35,7 @@ phone: "n/a"
 
 ## A link to our 'murphy bill' flyer [here](/images/2016-07-murphy.pdf)
 
-## One of the videos features for #FirstResort is linked [here](empty)
+## One of the videos features for #FirstResort is linked [here](empty) (no link yet)
 
 ## A Wall St. Journal article published on the same day as the nearly bipartisan vote (2 opposing out of 400) linked [here](http://www.wsj.com/articles/house-to-vote-on-mental-health-bill-1467819834)
 
