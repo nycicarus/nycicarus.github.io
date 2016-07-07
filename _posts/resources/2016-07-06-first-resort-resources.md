@@ -26,7 +26,7 @@ phone: "n/a"
 
 # Here are a collection of documents from the July presentation.
 
-## Caitlin explaing the idea
+## Caitlin explaining the idea
 
 <img src="/images/2016-07-intro.jpg" width="1000" height="500" />
 
