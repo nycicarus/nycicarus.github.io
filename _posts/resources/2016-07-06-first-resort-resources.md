@@ -27,10 +27,12 @@ phone: "n/a"
 Here are a collection of documents from the July presentation.
 
 Caitlin showing the idea boards
-<img src="/images/2016-07-show-board.jpg" width="200" height="300" />
+
+<img src="/images/2016-07-show-board.jpg" width="300" height="200" />
 
 One of the sample video projects being displayed
-<img src="/images/2016-07-jaz.jpg" width="200" height="300" />
+
+<img src="/images/2016-07-jaz.jpg" width="300" height="200" />
 
 A link to our 'murphy bill' flyer [here](/images/2016-07-murphy.pdf)
 
