@@ -62,5 +62,4 @@ Suicide Prevention Lifelife: (800) 273-8255
 Trevor Project: (866) 488-7386
 Trans Lifeline: (877) 565-8860
 Text an anonymous crisis counselor: 741741
-----------------------------------------------
 
