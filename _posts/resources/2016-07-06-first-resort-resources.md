@@ -57,9 +57,13 @@ One way we can direct those strong emotions is to join others to engage in socia
 At the end of our event we have space to talk amongst ourselves. If anyone wants to talk about how the events in Orlando effected them with others who were affected, we will have a space in the front area for that.
 
 resources:
-If you're struggling after learning about the shooting in Orlando, and you need to talk to someone, please reach out. 
-Suicide Prevention Lifelife: (800) 273-8255
-Trevor Project: (866) 488-7386
-Trans Lifeline: (877) 565-8860
-Text an anonymous crisis counselor: 741741
 
+If you're struggling after learning about the shooting in Orlando, and you need to talk to someone, please reach out. 
+
+Suicide Prevention Lifelife: (800) 273-8255
+
+Trevor Project: (866) 488-7386
+
+Trans Lifeline: (877) 565-8860
+
+Text an anonymous crisis counselor: 741741
