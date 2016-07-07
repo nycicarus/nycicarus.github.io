@@ -27,7 +27,7 @@ phone: "n/a"
 Here are a collection of documents from the July presentation.
 
 Caitlin showing the idea boards
-![alt text](/images/2016-07-show-board.jpg)
+![alt text](/images/2016-07-show-board.jpg =100x200)
 
 One of the sample video projects being displayed
 ![alt text](/images/2016-07-jaz.jpg)
