@@ -35,7 +35,9 @@ One of the sample video projects being displayed
 A link to our 'murphy bill' flyer [here](/images/2016-07-murphy.pdf)
 
 One of the videos features for #FirstResort is linked [here](/images/2016-04-08-icarus-nyc-advanced-directives-handout.pdf) link
+
 One of the videos features for #FirstResort is linked [here](https://drive.google.com/file/d/0B6ItTY-RP6jZWGFMZS10bXlkTHRTSmVVQmVzS2JuYVdaZmM0/view?usp=sharing)
+
 A Wall St. Journal article published on the same day as the nearly bipartisan vote (2 opposing out of 400) linked [here](http://www.wsj.com/articles/house-to-vote-on-mental-health-bill-1467819834)
 
 Text from our Orlando statement:
