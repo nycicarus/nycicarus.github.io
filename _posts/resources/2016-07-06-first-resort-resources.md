@@ -37,7 +37,8 @@ phone: "n/a"
 
 ## One of the videos features for #FirstResort is linked [here](https://www.facebook.com/IcarusProjectNewYorkCity/videos/vb.281069695340329/982360735211218/?type=2&theater&notif_t=feedback_reaction_generic&notif_id=1467925891405233)
 
-## if you have a video to submit, email it to fill-in-blank
+## In case you missed last night...here is a small taste. What do you want as your‎#FirstResort?
+## Wanna learn more and join the conversation? Reach out to: icarusvideoproject@gmail.com
 
 ## A Wall St. Journal article published on the same day as the nearly bipartisan vote (2 opposing out of 400) linked [here](http://www.wsj.com/articles/house-to-vote-on-mental-health-bill-1467819834)
 
