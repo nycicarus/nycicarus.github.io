@@ -24,16 +24,16 @@ phone: "n/a"
 
 ---
 
-Here are a collection of documents from the July presentation.
+# Here are a collection of documents from the July presentation.
 
-|Caitlin showing the idea boards|One of the sample video projects being displayed|
+|## Caitlin showing the idea boards|## One of the sample video projects being displayed|
 |<img src="/images/2016-07-show-board.jpg" width="600" height="400" />|<img src="/images/2016-07-jaz.jpg" width="600" height="400" />|
 
-A link to our 'murphy bill' flyer [here](/images/2016-07-murphy.pdf)
+## A link to our 'murphy bill' flyer [here](/images/2016-07-murphy.pdf)
 
-One of the videos features for #FirstResort is linked [here](empty)
+## One of the videos features for #FirstResort is linked [here](empty)
 
-A Wall St. Journal article published on the same day as the nearly bipartisan vote (2 opposing out of 400) linked [here](http://www.wsj.com/articles/house-to-vote-on-mental-health-bill-1467819834)
+## A Wall St. Journal article published on the same day as the nearly bipartisan vote (2 opposing out of 400) linked [here](http://www.wsj.com/articles/house-to-vote-on-mental-health-bill-1467819834)
 
 Text from our Orlando statement:
 ------------------------------------
