@@ -28,6 +28,9 @@ Here are a collection of documents from the July presentation.
 
 Caitlin showing the idea boards
 ![alt text](/images/2016-07-show-board.jpg =100x200)
+<img src="/images/2016-07-show-board.jpg" width="200" height="200" />
+
+
 
 One of the sample video projects being displayed
 ![alt text](/images/2016-07-jaz.jpg)
