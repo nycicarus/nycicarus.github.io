@@ -47,3 +47,5 @@ Hope to see you there!
 Mad love,
 
 Icarus Project NYC...
+
+## [event resouces are linked here](/resources/first-resort-resources/)
