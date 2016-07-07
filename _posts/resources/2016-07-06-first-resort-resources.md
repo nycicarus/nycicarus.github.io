@@ -41,7 +41,6 @@ A Wall St. Journal article published on the same day as the nearly bipartisan vo
 Text from our Orlando statement:
 ------------------------------------
 > We at the NYC Icarus project are  a group devoted to social justice mainly through our work to empower, educate and advocate for mad people -- those who typically are labeled as mentally ill --  including this event. 
-
 We consider systemic oppression like racism, homophobia, biphobia, xenophobia, islamophobia, and transphobia as part of the traumas that effects our well being whether its violence enacted on our bodies or our minds. The recent events in  Orlando are a nearly publicly acknowledged act in the US and the world of hate against the LGBT community, particularly those in Latinx communities. It also negatively affected the Muslim community and those who identity as both LGBT and Muslim.  We also note the numerious terrorist attacks that affected other nations in the proceeding weeks including in Iraq at the end of ramadan. 
 We believe all aspects of someones identity and experiences should  be acknowledged and validated during healthcare inlcuding mental health care.  Unfortunately in our current system, that is rarely the case in an ER, by therapists, by psychiatrists, by social workers, and in prisons. 
 We wish to acknowledge this shortcoming and try to work with LGBT groups and allies including those gathered here tonight to address these issues. We want to extend our sympathies to all gathered here tonight who were directly or indirected affected by this tragedy.
