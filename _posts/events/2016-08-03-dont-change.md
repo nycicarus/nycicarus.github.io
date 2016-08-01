@@ -39,7 +39,7 @@ It has talk about suicide, descriptions of methods, cartoon, animation, jokes ab
  
 Join us at Bluestockings August 3th, 7pm for a viewing of first hour of the film and then a discussion about the topic of suicide from any angle people want.
 (we regret doing this the 98 min full version was too long and folks can view
-the entire movie online)
+the entire movie online: http://www.dontchangethesubject.org/ )
  
 We can also talk about our previous months video project called
 #FirstResort which was about creating videos for people in emotional distress as ways to avoid suicide.
@@ -48,6 +48,9 @@ Crowdsourcing for Projects In Action - #FirstResort
 https://www.facebook.com/events/1043170469083794/
 http://nycicarus.org/events/first-resort/
 ---------------------------------------------
+
+Facebook event: 
+https://www.facebook.com/events/984060211711065/
 
 Hope to see you there!
 
