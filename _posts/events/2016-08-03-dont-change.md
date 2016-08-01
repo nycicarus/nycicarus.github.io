@@ -11,8 +11,8 @@ tags: [ workshop , social , peer-support, mutual-aid ]
 comments: true
 ads: false
 image:
-  teaser: psychmeds-400x250.jpg
-  feature: psychdrugs-1600x800.jpg
+  teaser: poster_toetag_small.jpg
+  feature: poster_toetag_small.jpg
   credit: 
   creditlink: 
 event-date: "Wednesday, August 3rd 2016"
