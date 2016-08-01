@@ -4,9 +4,9 @@ title: "A viewing & discussion of 'Dont change the subject'"
 categories: events
 description: "The NYC Icarus project will host a screening of a film and discussion about suicide"
 excerpt: "This month NYC Icarus will host a screening and discussion about suicide by showing a recent film by Mike Stutz on August 3rd at 7pm at the Bluestockings Bookstore and Activist Center.  A question and answer session will promptly follow." 
-modified: 2015-03-20T11:57:41-04:00
-published: 2016-04-25T11:57:41-04:00
-date: 2016-04-25T11:57:41-04:00
+modified: 2015-08-20T11:57:41-04:00
+published: 2016-08-25T11:57:41-04:00
+date: 2016-08-25T11:57:41-04:00
 tags: [ workshop , social , peer-support, mutual-aid ]
 comments: true
 ads: false
