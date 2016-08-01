@@ -24,7 +24,7 @@ website: ""
 email: ""
 phone: ""
 ---
-<img src="/images/poster_toetag_small.jpg" width="1000" height="500" />
+<img src="/images/poster_toetag_small.jpg" width="1000" height="400" />
 
 ### NYC Icarus - Film and Discussion: Mike Stutz's "Don't Change The Subject"
 
