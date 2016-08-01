@@ -12,7 +12,7 @@ comments: true
 ads: false
 image:
   teaser: poster_toetag_small.jpg
-  feature: poster_toetag_small.jpg
+  feature:
   credit: 
   creditlink: 
 event-date: "Wednesday, August 3rd 2016"
@@ -24,6 +24,8 @@ website: ""
 email: ""
 phone: ""
 ---
+<img src="/images/poster_toetag_small.jpg" width="1000" height="500" />
+
 ### NYC Icarus - Film and Discussion: Mike Stutz's "Don't Change The Subject"
 
 #### Join us at Bluestockings on August 3rd, 7pm for a viewing of a film and discussion of suicide.
