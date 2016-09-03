@@ -51,4 +51,4 @@ Mad love,
  
 Icarus Project NYC…
 
-ps. the excellent event graphics for 'Shrink Rap' by Nadia
+ps. the excellent event graphics for 'Shrink Rap' by Nadya
