@@ -24,7 +24,6 @@ website: ""
 email: ""
 phone: ""
 ---
-<img src="/images/poster_toetag_small.jpg" width="1000" height="200" />
 
 ### NYC Icarus - Shrink Rap: Examining Our Experiences With Therapy
 
