@@ -42,6 +42,7 @@ If you’d like to help out with planning monthly events and other Icarus NYC pr
 
 ## Here is the facebook event url:
 https://www.facebook.com/events/1688263844830081/
+
 http://nycicarus.org/events/shrink-rap/
  
 Hope to see you there!
