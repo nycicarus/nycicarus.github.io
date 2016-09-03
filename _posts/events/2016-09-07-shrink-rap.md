@@ -33,14 +33,17 @@ phone: ""
 Please join us at Bluestockings on 7th September, 7pm for 'Shrink Rap', an event about therapy:
 
 Shrink Rap: Examining Our Experiences With Therapy
+
 What are we looking for when we reach out for therapy? What has helped? What has harmed? How do we go about finding the right therapist? This and other topics will be explored through group discussions and improv exercises as we attempt to make a bit more sense out of something that generally happens behind closed doors.
 
 Peer counselor Elan Cohen will also share about his experiences in that role, and time will be made at the end for "MADtch-making" (the self-organizing of small peer-support groups). Hope to see you there!
 
 *Call for organizers*
+
 If you’d like to help out with planning monthly events and other Icarus NYC projects, we’d like to meet you! Please contact us at nycicarus@gmail.com
 
 Here is the facebook event url:
+
 https://www.facebook.com/events/1688263844830081/
 http://nycicarus.org/events/shrink-rap/
  
