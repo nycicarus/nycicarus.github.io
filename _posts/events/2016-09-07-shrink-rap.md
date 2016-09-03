@@ -13,7 +13,7 @@ ads: false
 image:
   teaser: poster_toetag_small.jpg
   feature:
-  credit: 
+  credit: Nadya Gomez
   creditlink: 
 event-date: "Wednesday, September 7th 2016"
 event-time: "7:00 pm - 9:00 pm"
@@ -50,4 +50,5 @@ Hope to see you there!
 Mad love,
  
 Icarus Project NYC…
+
 ps. the excellent event graphics for 'Shrink Rap' by Nadia
