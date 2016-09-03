@@ -32,8 +32,7 @@ phone: ""
 
 Please join us at Bluestockings on 7th September, 7pm for 'Shrink Rap', an event about therapy:
 
-Shrink Rap: Examining Our Experiences With Therapy
-
+# Shrink Rap: Examining Our Experiences With Therapy
 What are we looking for when we reach out for therapy? What has helped? What has harmed? How do we go about finding the right therapist? This and other topics will be explored through group discussions and improv exercises as we attempt to make a bit more sense out of something that generally happens behind closed doors.
 
 Peer counselor Elan Cohen will also share about his experiences in that role, and time will be made at the end for "MADtch-making" (the self-organizing of small peer-support groups). Hope to see you there!
