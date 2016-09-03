@@ -11,8 +11,8 @@ tags: [ workshop , therapy, peer-support, discussion ]
 comments: true
 ads: false
 image:
-  teaser: poster_toetag_small.jpg
-  feature:
+  teaser: therapy.jpg
+  feature: therapy.jpg
   credit: Nadya Gomez
   creditlink: 
 event-date: "Wednesday, September 7th 2016"
