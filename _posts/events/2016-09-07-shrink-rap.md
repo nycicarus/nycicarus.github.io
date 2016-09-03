@@ -37,12 +37,10 @@ What are we looking for when we reach out for therapy? What has helped? What has
 
 Peer counselor Elan Cohen will also share about his experiences in that role, and time will be made at the end for "MADtch-making" (the self-organizing of small peer-support groups). Hope to see you there!
 
-*Call for organizers*
-
+## *Call for organizers*
 If you’d like to help out with planning monthly events and other Icarus NYC projects, we’d like to meet you! Please contact us at nycicarus@gmail.com
 
-Here is the facebook event url:
-
+## Here is the facebook event url:
 https://www.facebook.com/events/1688263844830081/
 http://nycicarus.org/events/shrink-rap/
  
