@@ -11,8 +11,8 @@ tags: [ workshop , social , peer-support, mutual-aid ]
 comments: true
 ads: false
 image:
-  teaser: 20160406_193313-bright.jpg
-  feature: 20160406_193313-bright.jpg
+  teaser: 2016-04-jaz-brite-400x250.png
+  feature: 2016-04-jaz-brite-1600x800.png
   credit: 
   creditlink: 
 event-date: "Wednesday, April 6th 2016"

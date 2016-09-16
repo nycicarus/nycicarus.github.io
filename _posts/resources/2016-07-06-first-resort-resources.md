@@ -13,11 +13,7 @@ image:
   feature: 
   credit: kevix
   creditlink: http://kevix.org
-resource-date: "n/a"
-resource-time: "n/a"
-location: "n/a"
-location-street: "n/a"
-location-city-state: "n/a"
+location: "The Internet"
 website: "n/a"
 email: "n/a"
 phone: "n/a"

@@ -13,11 +13,8 @@ image:
   feature: 2016-04-jaz-brite-1600x800.png
   credit: kevix
   creditlink: http://kevix.org
-resource-date: "n/a"
-resource-time: "n/a"
-location: "n/a"
-location-street: "n/a"
-location-city-state: "n/a"
+
+location: "The Internet"
 website: "n/a"
 email: "n/a"
 phone: "n/a"
