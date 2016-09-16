@@ -11,8 +11,8 @@ tags: [ workshop , social , peer-support, mutual-aid ]
 comments: true
 ads: false
 image:
-  teaser: viralvid.jpg
-  feature: viralvid.jpg
+  teaser: crowdsource-firstresort-400x250.png
+  feature: crowdsource-firstresort-1600x800.png
   credit: 
   creditlink: 
 event-date: "Wednesday, July 6st 2016"

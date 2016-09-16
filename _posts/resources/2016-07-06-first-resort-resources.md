@@ -9,8 +9,8 @@ tags: [Activism , advanced directives, education, publication]
 comments: true
 ads: false
 image:
-  teaser: 2016-07-intro.jpg
-  feature: 
+  teaser: first-resort-resources-400x250.png
+  feature: first-resort-resources-1600x800.png
   credit: kevix
   creditlink: http://kevix.org
 location: "The Internet"

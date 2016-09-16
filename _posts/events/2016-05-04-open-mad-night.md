@@ -11,8 +11,8 @@ tags: [ workshop , social , peer-support, art ]
 comments: true
 ads: false
 image:
-  teaser: mad-seal.jpg
-  feature: mad-seal.jpg
+  teaser: mad-seal-400x250.png
+  feature: mad-seal-1600x800.png
   credit: 
   creditlink: 
 event-date: "Wednesday, May 4th 2016"

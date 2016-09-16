@@ -11,8 +11,8 @@ tags: [ workshop , therapy, peer-support, discussion ]
 comments: true
 ads: false
 image:
-  teaser: therapy.jpg
-  feature: therapy.jpg
+  teaser: therapshrink-wrap-therapy-400x250.png
+  feature: therapshrink-wrap-therapy-1600x800.png
   credit: Nadya Gomez
   creditlink: 
 event-date: "Wednesday, September 7th 2016"

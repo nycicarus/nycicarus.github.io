@@ -11,8 +11,8 @@ tags: [ workshop , social , peer-support, mutual-aid ]
 comments: true
 ads: false
 image:
-  teaser: poster_toetag_small.jpg
-  feature:
+  teaser: Dont-change-the-Subject-400x250.png
+  feature: Dont-change-the-Subject-1600x800.png
   credit: 
   creditlink: 
 event-date: "Wednesday, August 3rd 2016"
