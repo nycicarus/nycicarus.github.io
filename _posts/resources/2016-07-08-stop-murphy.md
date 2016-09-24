@@ -1,12 +1,12 @@
 ---
-layout: resource
+layout: article
 title: "Stop the Murphy Bill!"
 categories: resources
 description: "Information about our 2016 campaign to stop the Tim Murphy (R) Bill"
 excerpt: "Resources from various events we have hosted this year resisting the Murphy Bill"
 modified: 2016-09-23
 tags: [Activism , murphybill, education, publication, policy, politics, forcedtreatment]
-comments: true
+comments: false
 ads: false
 image:
   teaser: murphysml.jpg
