@@ -22,6 +22,6 @@ Here are the pamphlets we have prepared summarizing our opposition:
 
 Our January pamphlet, [Helping or Harming?](http://nycicarus.org/images/2016-01-murphy.pdf) (original InDesign source file for remixing: [source](http://nycicarus.org/images/2016-01-murphy.ai)).
 
-Our updated April pamphlet, [About us, without us](http://nycicarus.org/images/2016-07-murphy.pdf) (source file coming soon!).
+Our updated April pamphlet, [About us, without us](http://nycicarus.org/images/2016-07-murphy.pdf) (original InDesign source file for remixing: [source](http://nycicarus.org/images/2016-07-murphy.ai)).
 
 Stay tuned for ongoing updates.
