@@ -11,8 +11,8 @@ tags: [ workshop , internet, addiction, peer-support, discussion ]
 comments: true
 ads: false
 image:
-  teaser: therapshrink-wrap-therapy-400x250.png
-  feature: therapshrink-wrap-therapy-1600x800.png
+  teaser: madness-internet.jpg
+  feature: madness-internet.jpg
   credit: 
   creditlink: 
 event-date: "Wednesday, October 5th 2016"
