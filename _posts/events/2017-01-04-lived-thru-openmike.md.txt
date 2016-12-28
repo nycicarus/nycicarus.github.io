@@ -5,8 +5,8 @@ categories: events
 description: "an open mike celebrating our survival this year”
 excerpt: "If you’re reading this right now, you survived 2016. Whether you’re bent out of shape and holding on by the skin of your teeth or are feeling cautiously optimistic on the edge of  ‘17, it’s time to come together to say goodbye to this horrifying year and celebrate our collective resilience and vulnerability."
 modified: 2015-12-01T11:57:41-04:00
-published: 2016-12-01T11:57:41-04:00
-date: 2016-12-07T11:57:41-04:00
+published: 2017-01-01T11:57:41-04:00
+date: 2017-01-07T11:57:41-04:00
 tags: [ peer-support, discussion, openmike ]
 comments: false
 ads: false
