@@ -4,7 +4,7 @@ title: "Mad Solidarity in a World Gone Mad"
 categories: events
 description: "The NYC Icarus project will host a discussion about self-care and avoiding activist burnout after the election"
 excerpt: "The recent election results have been shocking and hard on many us. Join us for discussion, solidarity-building group activities, and resource sharing in support of surviving, coming together, and keeping up the fight in the aftermath of Trump’s unlikely win."
-modified: 2015-12-01T11:57:41-04:00
+modified: 2017-01-01T11:57:41-04:00
 published: 2017-01-01T11:57:41-04:00
 date: 2017-01-01T11:57:41-04:00
 tags: [ workshop , internet, resources, peer-support, discussion ]
