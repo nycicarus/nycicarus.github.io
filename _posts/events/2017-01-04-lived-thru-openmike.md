@@ -26,7 +26,7 @@ phone: ""
 ---
 ### Lived Through That: An Open Mic Celebrating Survival in 2016 
 
-#### Join us at Bluestockings on December 7th, 7pm for an open mike celebrating our survival this year !
+#### Join us at Bluestockings on Jonuary 4th 7pm for an open mike celebrating our survival this year !
 
 If you’re reading this right now, you survived 2016. Whether you’re bent out of shape and holding on by the skin of your teeth or are feeling cautiously optimistic on the edge of  ‘17, it’s time to come together to say goodbye to this horrifying year and celebrate our collective resilience and vulnerability. 
 
