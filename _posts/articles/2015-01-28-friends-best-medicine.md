@@ -19,9 +19,9 @@ We've outlined a bunch of ideas to help you gather people together to start expl
 
 Download this publication in English:
 
-[from The Icarus Project website--broken in 2015](http://www.theicarusproject.net/icarus-downloads/friends-make-the-best-medicine)
+~~[from The Icarus Project website--broken in 2015](http://www.theicarusproject.net/icarus-downloads/friends-make-the-best-medicine)
 
-[from Ram-a.net--not working or slow](http://ram-a.net/sites/default/files/FMTBM_final_wcovers.pdf)
+~~[from Ram-a.net--not working or slow](http://ram-a.net/sites/default/files/FMTBM_final_wcovers.pdf)
 
 [from this site](/images/fmtbm.pdf)
 
