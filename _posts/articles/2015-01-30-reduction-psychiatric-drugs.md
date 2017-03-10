@@ -35,3 +35,5 @@ What are some of the differences with the new Second Edition? More than twice as
 [Publication Translations](http://www.theicarusproject.net/article/updated-publication-ordering-and-downloads)
 
 [Read about the creation of this guide](http://theicarusproject.net/alternative-treatments/the-making-of-the-harm-reduction-guide-to-meds-withdrawal)
+
+[Download the audiobook (2017)](http://www.madnessradio.net/audio/ComingOffPsychDrugsHarmReductGuide-Audiobok.mp3)
