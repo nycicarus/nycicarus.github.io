@@ -3,7 +3,7 @@ layout: article
 title: "Plant allies Workshop"
 categories: events
 description: "Plant allies Workshop."
-excerpt: "Join an Christine and Stephanie as they Share stories and information about their favorite plant allies for mood and mind!"
+excerpt: "Join Christine and Stephanie as they Share stories and information about their favorite plant allies for mood and mind!"
 modified: 2017-03-25T11:57:41-04:00
 tags: [ herbs , plants, herbalism, workshop ]
 comments: true
