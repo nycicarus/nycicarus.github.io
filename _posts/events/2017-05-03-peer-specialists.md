@@ -9,8 +9,8 @@ tags: [ herbs , plants, herbalism, workshop ]
 comments: true
 ads: false
 image:
-  teaser: nycicarus_birds.jpg
-  feature: nycicarus_birds.jpg
+  teaser: nycicarus_birds.png
+  feature: nycicarus_birds.png
   credit: 
   creditlink: 
 event-date: "Wednesday, May 3rd, 2017"
