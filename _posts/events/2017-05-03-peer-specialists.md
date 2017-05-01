@@ -9,7 +9,7 @@ tags: [ herbs , plants, herbalism, workshop ]
 comments: true
 ads: false
 image:
-  teaser: nycicarus_birds.png
+  teaser: nycicarus_birds_400x250.png
   feature: nycicarus_birds.png
   credit: 
   creditlink: 
