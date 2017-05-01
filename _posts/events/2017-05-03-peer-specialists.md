@@ -22,9 +22,6 @@ website: ""
 email: ""
 phone: ""
 ---
-### NYC Icarus Peer Specialists
-
-#### We Must Breathe & Breaking the Binary Workshop
 
 #### Presented by Nikomeh and Kevin.
 
