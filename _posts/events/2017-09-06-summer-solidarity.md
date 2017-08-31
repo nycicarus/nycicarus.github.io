@@ -27,13 +27,7 @@ phone: ""
 What have you been doing over the summer that's about radical mental health? We'd love to know!
 Join us at Bluestockings on Wednesday, September 6th for a discussion about what people are up to!
 
-The humble folks at NYC Icarus invite you to come share what you've been up to all summer -- we've been
-+spread far and wide, surviving in this crazy city, running radical festivals like "Free The Arts", working
-+inside the system being peers, social workers, and clinicians, carving new paths outside the system, going
-+to peer conference like the Alternatives conf and Hearing Voices Congress, making art like "Obsure
- Emotions" (Bhakti Center), trying to pay rent, fighting Nazi's in the streets and joining BLM looking to
-+end police violence against people in emotional distress, dreaming about the future. Come catch up with us
-+and lets talk about what we want to do this Fall..
+The humble folks at NYC Icarus invite you to come share what you've been up to all summer -- we've been spread far and wide, surviving in this crazy city, running radical festivals like "Free The Arts", working inside the system being peers, social workers, and clinicians, carving new paths outside the system, going to peer conference like the Alternatives conf and Hearing Voices Congress, making art like "Obsure Emotions" (Bhakti Center), trying to pay rent, fighting Nazi's in the streets and joining BLM looking to end police violence against people in emotional distress, dreaming about the future. Come catch up with us and lets talk about what we want to do this Fall..
 
 If you can make it to join the fun and solidarity, let more folx know!
 Event Schedule
@@ -53,7 +47,9 @@ Make sure to sign-up for the mailing list at the event or email nycicarus@gmail.
 We are looking for organizers! Email us at nycicarus@gmail.com if you are interested in helping us organize events.  
 
 DATE: Sept. 6th, 2017
+
 TIME: 7pm
+
 LOCATION: Bluestockings Bookstore, 172 Allen St, Manhattan
 
 Hope to see you there!
