@@ -8,9 +8,9 @@ tags: [ community, roundtable, discussion ]
 comments: true
 ads: false
 image:
-  teaser: climate_and_mh.jpg
-  feature: climate_and_mh.jpg
-  credit: 
+  teaser: summer-solidarity-2017.jpg
+  feature: summer-solidarity-2017.jpg
+  credit: Sasha
   creditlink: 
 event-date: "Wednesday, September 6th, 2017"
 event-time: "7:00 pm - 9:30 pm"
