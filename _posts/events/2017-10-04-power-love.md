@@ -8,8 +8,8 @@ tags: [ community, roundtable, discussion ]
 comments: true
 ads: false
 image:
-  teaser: summer-solidarity-2017.jpg
-  feature: summer-solidarity-2017.jpg
+  teaser: power-love-2017.jpg
+  feature: power-love-2017.jpg
   credit: Sasha
   creditlink: 
 event-date: "Wednesday, October 4th, 2017"
