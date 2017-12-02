@@ -1,4 +1,5 @@
-yout: article
+---
+layout: article
 title: "Creating The People's DSM: Neurodiversity and Madness"
 categories: events
 description: ""
