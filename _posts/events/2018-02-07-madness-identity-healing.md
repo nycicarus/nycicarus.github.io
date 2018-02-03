@@ -32,20 +32,18 @@ BRING YOUR ARTWORK, POEMS, MUSIC: We will have time to share any creations/expre
 
 #### General Breakdown:
 
-our project introduction 
-shared reading of our Community Agreements
-group Introductions
-Arts Open-Share
-
-Small Group Discussions (loosely facilitated by Icarus organizers)
-Embodiment/Movement Group Activity
-
-Large Group Discussion and cross-talk
-Summarizing Takeaways
-Check Out
+* our project introduction 
+* shared reading of our Community Agreements
+* group Introductions
+* Arts Open-Share
+* Small Group Discussions (loosely facilitated by Icarus organizers)
+* Embodiment/Movement Group Activity
+* Large Group Discussion and cross-talk
+* Summarizing Takeaways
+* Check Out
 
 #### TRANSPARENCY:
-*Though we are committed to collective liberation and are a mixed race collective, our history has traditionally brought in white, middle class people. In order to protect Queer Trans People of Color (QTPOC) from tokenization and psychic harm, we as a collective commit to prioritizing the needs of QTPOC in our public events and promoting QTPOC leadership in our collective. We acknowledge the emotional labor that QTPOC may perform in these spaces, which often go unrecognized. Therefore, we want white cisgender people to independently undo racism, gender binarism / sexism, while remaining accountable to QTPOC. We are currently engaging in an ongoing process of integrating these goals internally within our
+Though we are committed to collective liberation and are a mixed race collective, our history has traditionally brought in white, middle class people. In order to protect Queer Trans People of Color (QTPOC) from tokenization and psychic harm, we as a collective commit to prioritizing the needs of QTPOC in our public events and promoting QTPOC leadership in our collective. We acknowledge the emotional labor that QTPOC may perform in these spaces, which often go unrecognized. Therefore, we want white cisgender people to independently undo racism, gender binarism / sexism, while remaining accountable to QTPOC. We are currently engaging in an ongoing process of integrating these goals internally within our
 organization, among our mixed race organizers, and within the structuring of our external events. *
 
 #### ACCESS ISSUES: The space is accessible for wheelchair users but does not have a bathroom for wheelchair users. We use mics to support people who are hard of hearing.
