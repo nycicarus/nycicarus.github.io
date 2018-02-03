@@ -8,8 +8,8 @@ tags: [ community, roundtable, discussion, identity, healing ]
 comments: true
 ads: false
 image:
-  teaser: https://pbs.twimg.com/media/DLy8zXGWkAAAkjK.jpg
-  feature: https://pbs.twimg.com/media/DLy8zXGWkAAAkjK.jpg
+  teaser: qtpoc.jpg
+  feature: qtpoc.jpg
   credit: https://twitter.com/QPOC_MH
   creditlink: https://pbs.twimg.com/media/DLy8zXGWkAAAkjK.jpg
 event-date: "Wednesday, February 7th, 2018"
