@@ -5,7 +5,7 @@ categories: resources
 description: "Mental Health Professional in Manhattan"
 excerpt: "A mental health professional who has worked with the queer community (GMHC)"
 published: false
-modified: 2015-07-22T11:57:41-04:00
+modified: 2099-07-22T11:57:41-04:00
 tags: [peer support ]
 comments: true
 ads: false
