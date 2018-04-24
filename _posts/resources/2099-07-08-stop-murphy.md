@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Stop the Murphy Bill!"
-categories: resources
+categories: resources-removed
 description: "Information about our 2016 campaign to stop the Tim Murphy (R) Bill"
 excerpt: "Resources from various events we have hosted this year resisting the Murphy Bill"
 modified: 2099-09-23

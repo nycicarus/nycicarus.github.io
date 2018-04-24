@@ -1,7 +1,7 @@
 ---
 layout: resource
 title: "Jeremy Ortman, LMHC"
-categories: resources
+categories: resources-removed
 description: "Mental Health Professional in Manhattan"
 excerpt: "A mental health professional who has worked with the queer community (GMHC)"
 published: false
