@@ -8,8 +8,8 @@ tags: [ community, fine-arts, workshop, dsm ]
 comments: true
 ads: false
 image:
-  teaser: ppls_dsm.jpg
-  feature: ppls_dsm.jpg
+  teaser: ppls_dsm-400x250.png
+  feature: ppls_dsm-1600x800.png
   credit: 
   creditlink: 
 event-date: "Wednesday, July 5th, 2017"

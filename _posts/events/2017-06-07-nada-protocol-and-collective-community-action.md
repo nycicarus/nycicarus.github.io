@@ -9,7 +9,7 @@ tags: [ accupuncture, community, fine-arts, workshop ]
 comments: true
 ads: false
 image:
-  teaser: nada-protocol-collective-community.jpg
+  teaser: nada-protocol-collective-community-400x250.png
   feature: nada-protocol-collective-community.jpg
   credit: 
   creditlink: 
