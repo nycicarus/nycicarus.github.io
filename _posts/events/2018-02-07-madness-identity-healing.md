@@ -8,8 +8,8 @@ tags: [ community, roundtable, discussion, identity, healing ]
 comments: true
 ads: false
 image:
-  teaser: qtpocmh.jpg
-  feature: qtpocmh.jpg
+  teaser: qtpocmh-400x250.png
+  feature: qtpocmh-1600x800.png
   credit: https://twitter.com/QPOC_MH
   creditlink: https://pbs.twimg.com/media/DLy8zXGWkAAAkjK.jpg
 event-date: "Wednesday, February 7th, 2018"

@@ -8,8 +8,8 @@ tags: [ community, roundtable, discussion ]
 comments: true
 ads: false
 image:
-  teaser: power-love-2017.jpg
-  feature: power-love-2017.jpg
+  teaser: power-love-2017-400x250.png
+  feature: power-love-2017-1600x800.png
   credit: Sasha
   creditlink: 
 event-date: "Wednesday, October 4th, 2017"

@@ -8,8 +8,8 @@ tags: [ community, fine-arts, workshop, dsm ]
 comments: true
 ads: false
 image:
-  teaser: climate_and_mh.jpg
-  feature: climate_and_mh.jpg
+  teaser: climate_and_mh-400x250.png
+  feature: climate_and_mh-1600x800.png
   credit: 
   creditlink: 
 event-date: "Wednesday, August 2nd, 2017"

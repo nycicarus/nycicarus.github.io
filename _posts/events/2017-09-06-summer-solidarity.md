@@ -8,8 +8,8 @@ tags: [ community, roundtable, discussion ]
 comments: true
 ads: false
 image:
-  teaser: summer-solidarity-2017.jpg
-  feature: summer-solidarity-2017.jpg
+  teaser: summer-solidarity-2017-400x250.png
+  feature: summer-solidarity-2017-1600x800.png
   credit: Sasha
   creditlink: 
 event-date: "Wednesday, September 6th, 2017"
