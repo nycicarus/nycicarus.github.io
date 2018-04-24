@@ -15,8 +15,8 @@ image:
   creditlink: 
 resource-date: "East Side Group: Fridays at 7:30pm"
 resource-time: "West Side Group: Wednesdays at 7:30pm"
-location: "West Side: Bernstein Pavilion of Beth Israel Medical Center East Side:"
-location-street: "West Side Group: between 15th and 16th streets and between First and Second Avenues East Side Group: 411 West 114th Street (6th floor) between Amsterdam and Morningside Drive"
+location: "Bernstein Pavilion of Beth Israel Medical Center East"
+location-street: "Between 15th and 16th st and between First and Second Ave"
 location-city-state: "New York, New York"
 website: "http://www.mdsg.org/support-groups.php"
 email: "info@mdsg.org"
