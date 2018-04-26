@@ -20,4 +20,5 @@ From the intro:
 
 "In expressing our feelings, insights, and ideas about madness and the world around us we hope to inform and inspire others. The stories told by the psychiatric establishment, pharmaceutical industry, and the mainstream media all to often overshadow our own. By sharing our stories with others we can reclaim the right to define ourselves and our experiences. We choose to honor our uniqueness and complexity by letting our voices be heard."
 
-[Download this Publication](http://www.theicarusproject.net/files/waxandfeathers.pdf)
+~~[Download this Publication from Icarus](http://www.theicarusproject.net/files/waxandfeathers.pdf)~~
+[Download this from this site](/images/waxandfeathers.pdf)
