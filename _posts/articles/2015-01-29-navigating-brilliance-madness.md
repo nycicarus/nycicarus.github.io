@@ -21,6 +21,6 @@ This book emerged out of our website, the Icarus Project, which has been helping
 
 
 ## Welcome people from [__Las Brujas NYC__](http://brujas.nyc) looking for a copy of this seminal publiction of The Icarus Project from its early days as part of the [__mad pride__](https://en.wikipedia.org/wiki/Mad_Pride) movement in the United States. 
-You can attend a local event of the NYC Icarus project (1st Wednesday of the month, 7pm, at bluestockings bookstore). We would be happy to see you there. (KM 2018).
+You can attend a local event of the NYC Icarus project (1st Wednesday of the month, 7pm, at [bluestockings bookstore](http://bluestockings.com)). We would be happy to see you there. (KM 2018).
 
 [Download this Publication](http://nycicarus.org/images/navigating_the_space.pdf)
