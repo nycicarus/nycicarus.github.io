@@ -17,13 +17,13 @@ This publication is about madness and oppression. It lists many sources of oppre
 
 Download this publication in English:
 
-~~[from The Icarus Project website--broken in 2015](http://www.theicarusproject.net/icarus-downloads/friends-make-the-best-medicine)~~
+[from The Icarus Project website](http://theicarusproject.net/wp-content/uploads/2017/10/MadnessAndOppressionGuide-compressed.pdf)
 
 ~~[from this site](/images/fmtbm.pdf)~~
 
-Download this publication in Spanish (from Spain):
+Download this publication in Spanish:
 
-~~[from la isla de ka website](https://laisladeka.wordpress.com/facilitacion-de-grupos/)~~
+[from  madinamerica-hispanohablante.org](https://static1.squarespace.com/static/57bcd6322994ca36c2f0329b/t/5a81c32608522974e5e5c23f/1518453757058/Mapas+Locos.pdf)
 
 Download this publication in French  (from France):
 
