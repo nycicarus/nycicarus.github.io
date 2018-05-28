@@ -27,4 +27,4 @@ Download this publication in Spanish (from Spain):
 
 Download this publication in French  (from France):
 
-[from the Poivron website] (https://icarus.poivron.org/folie-oppression-cartographier-nos-folies/)
+[from the Poivron website](https://icarus.poivron.org/folie-oppression-cartographier-nos-folies/)
