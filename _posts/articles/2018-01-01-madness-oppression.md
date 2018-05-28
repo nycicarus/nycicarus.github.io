@@ -5,11 +5,11 @@ categories: articles
 excerpt: "We've outlined a bunch of ideas to help you identify sources of oppression in your life that can help you place and deal with them."
 tags: [publication]
 image:
-  teaser: friends-best-medicine-400x250.png
-  feature: friends-best-medicine-1600x800.png
+  teaser: madness-oppression.jpg
+  feature: madness-oppression.jpg
   credit: 
   creditlink: 
-  thumb: friends-best-medicine-400x250.png
+  thumb: madness-oppression.jpg
 ---
 
 
