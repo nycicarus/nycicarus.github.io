@@ -23,6 +23,9 @@ Download this publication in English:
 
 Download this publication in Spanish:
 
+Locura y opresión
+La Comunidad virtual “The Icarus Project” ha publicado recientemente la traducción de la guía “Madness and Oppression”, 
+
 [from  madinamerica-hispanohablante.org](https://static1.squarespace.com/static/57bcd6322994ca36c2f0329b/t/5a81c32608522974e5e5c23f/1518453757058/Mapas+Locos.pdf)
 
 Download this publication in French  (from France):
