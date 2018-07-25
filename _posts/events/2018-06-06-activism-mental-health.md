@@ -8,8 +8,8 @@ tags: [ community, roundtable, discussion, frameworks , healing ]
 comments: true
 ads: false
 image:
-  teaser: qtpocmh-400x250.png
-  feature: qtpocmh-1600x800.png
+  teaser: june-2018-art.jpg
+  feature: june-2018-art.jpg
   credit: 
   creditlink: 
 event-date: "Wednesday, June 6th, 2018"
