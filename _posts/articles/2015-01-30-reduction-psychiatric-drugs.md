@@ -32,8 +32,8 @@ What are some of the differences with the new Second Edition? More than twice as
 
 [Download this Publication](http://www.willhall.net/files/ComingOffPsychDrugsHarmReductGuide2Edonline.pdf)
 
-[Publication Translations](http://www.theicarusproject.net/article/updated-publication-ordering-and-downloads)
+[Publication Translations](https://theicarusproject.net/resources/publications/harm-reduction-guide-to-coming-off-psychiatric-drugs-and-withdrawal/)
 
-[Read about the creation of this guide](http://theicarusproject.net/alternative-treatments/the-making-of-the-harm-reduction-guide-to-meds-withdrawal)
+[Read about the creation of the 2nd edition of this guide (old link)](http://legacy.theicarusproject.net/content/coming-medications-guide-second-edition)
 
 [Download the audiobook (2017)](http://www.madnessradio.net/audio/ComingOffPsychDrugsHarmReductGuide-Audiobok.mp3)
