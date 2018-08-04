@@ -1,7 +1,6 @@
 ---
 layout: article
 title: "Symptom, Resistance, or Madness? : Suicide within Our Communities"
-The activism, movements and frameworks in mental health"
 categories: events
 description: ""
 excerpt: "NYC Icarus brings together folx to talk suicide, from thoughts, to viewpoints, to systemic oppression"
