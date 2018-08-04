@@ -8,8 +8,8 @@ tags: [ community, discussion, suicide, healing ]
 comments: true
 ads: false
 image:
-  teaser: june-2018-art.jpg
-  feature: june-2018-art.jpg
+  teaser: 37823590_1710740259039925_8405954853217501184_o.jpg
+  feature: 37823590_1710740259039925_8405954853217501184_o.jpg
   credit: 
   creditlink: 
 event-date: "Wednesday, August 1st, 2018"
