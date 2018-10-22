@@ -8,8 +8,8 @@ tags: [ community, protest, activism ]
 comments: true
 ads: false
 image:
-  teaser: 37823590_1710740259039925_8405954853217501184_o.jpg
-  feature: 37823590_1710740259039925_8405954853217501184_o.jpg
+  teaser: ProtestAPA.jpg
+  feature: ProtestAPA.jpg
   credit: 
   creditlink: 
 event-date: "Wednesday, May 2nd, 2018"
