@@ -8,8 +8,8 @@ tags: [ community, discussion, psychiatry]
 comments: true
 ads: false
 image:
-  teaser: DifficultShrink.jpg
-  feature: DifficultShrink.jpg
+  teaser: DifficultShrink.png
+  feature: DifficultShrink.png
   credit: 
   creditlink: 
 event-date: "Wednesday, November 7st, 2018"
@@ -36,19 +36,25 @@ A conversation about psychiatric treatment would not be complete without address
 
 In this meeting, we will have opportunity to vent frustrations individuals have encountered and discuss challenges in communicating with psychiatrists and mental health service providers. This event is a community brain-storming about mutual advice, suggestions, and sharing resources. We will ask what can be done to improve existing psychiatric services, or whether it’s necessary to organize and heal independent of capitalistic systems of care.
 
-BRING YOUR ARTWORK, POEMS, MUSIC: We will have time to share any creations/expressions around sorrow/suffering, death/life, despair/hope, oppression, and identity.
 
 #### EVENT AGENDA:
 
 General Breakdown:
 
 *our project introduction
+
 *shared reading of our Community Agreements
+
 *group Introductions and Safety Guidelines
+
 *Group Discussion
+
 *Movement Activity
+
 *Sharing of support and resources
+
 *Closing Activity
+
 *Check Out
 
 
