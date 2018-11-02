@@ -73,7 +73,9 @@ And then we’ll hang out for a little while and be gone until another month. Ma
 
 
 DATE: Nov. 7th, 2018
+
 TIME: 7pm
+
 LOCATION: Bluestockings Bookstore, 172 Allen St, Manhattan
 
 Hope to see you there!
