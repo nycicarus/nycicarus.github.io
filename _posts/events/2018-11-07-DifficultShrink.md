@@ -41,32 +41,35 @@ In this meeting, we will have opportunity to vent frustrations individuals have 
 
 General Breakdown:
 
-*our project introduction
+* our project introduction
 
-*shared reading of our Community Agreements
+* shared reading of our Community Agreements
 
-*group Introductions and Safety Guidelines
+* group Introductions and Safety Guidelines
 
-*Group Discussion
+* Group Discussion
 
-*Movement Activity
+* Movement Activity
 
-*Sharing of support and resources
+* Sharing of support and resources
 
-*Closing Activity
+* Closing Activity
 
-*Check Out
+* Check Out
 
 
 TRANSPARENCY:
 Though we are committed to collective liberation and are a mixed race collective, our history has traditionally brought in white, middle class people. In order to protect Queer Trans People of Color (QTPOC) from tokenization and psychic harm, we as a collective commit to prioritizing the needs of QTPOC in our public events and promoting QTPOC leadership in our collective. We acknowledge the emotional labor that QTPOC may perform in these spaces, which often go unrecognized. Therefore, we want white cisgender people to independently undo racism, gender binarism / sexism, while remaining accountable to QTPOC. We are currently engaging in an ongoing process of integrating these goals internally within our organization, among our mixed race organizers, and within the structuring of our external events. *
+
 ACCESS ISSUES: The space is accessible for wheelchair users but does not have a bathroom for wheelchair users. We use mics to support people who are hard of hearing.
 
 Bluestockings is wheelchair accessible, with no steps or platforms, and wide aisles between shelves. Our bathroom is not wheelchair accessible. There is a Starbucks two short blocks down the street with an accessible bathroom (at Allen and Delancey). Metered street parking is readily available in the blocks surrounding Bluestockings. Bluestockings is not a scent-free space, but we encourage visitors to please refrain from wearing perfumes, colognes or other scented products (including essential oils) and smoke far away from the entrance to the space.
+
 And then we’ll hang out for a little while and be gone until another month. Make sure to sign-up for the mailing list at the event or email nycicarus@gmail.com.
 
-[NYC Icarus FB event](https://www.facebook.com/events/455061404949714/)
-[NYC Icarus website](http://nycicarus.org/events/suicide-madness/)
+[NYC Icarus FB event](https://www.facebook.com/events/744469872571592/)
+
+[NYC Icarus website](http://nycicarus.org/events/DifficultShrink/)
 
 
 DATE: Nov. 7th, 2018
