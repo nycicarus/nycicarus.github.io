@@ -8,8 +8,8 @@ tags: [ community, discussion, hospitalization]
 comments: true
 ads: false
 image:
-  teaser: Issa.png
-  feature: Issa.png
+  teaser: Issa.jpg
+  feature: Issa.jpg
   credit: 
   creditlink: 
 event-date: "Wednesday, January 3rd, 2018"
@@ -38,9 +38,9 @@ Bluestockings is wheelchair accessible, with no steps or platforms, and wide ais
 
 And then we’ll hang out for a little while and be gone until another month. Make sure to sign-up for the mailing list at the event or email nycicarus@gmail.com.
 
-[NYC Icarus FB event](https://www.facebook.com/events/744469872571592/)
+[NYC Icarus FB event](https://www.facebook.com/events/138430366824998/)
 
-[NYC Icarus website](http://nycicarus.org/events/DifficultShrink/)
+[NYC Icarus website](http://nycicarus.org/events/HospitalAlternatives/)
 
 
 DATE: Jan. 3rd, 2018
