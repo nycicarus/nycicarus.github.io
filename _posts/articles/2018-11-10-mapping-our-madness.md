@@ -19,4 +19,5 @@ This is the Mapping Our Madness Zine
 From the cover:
 
 "A workbook for navigating crisis, extreme states, or just foul moods."
+
 [Download this from this site](/images/MappingOurMadness.pdf)
