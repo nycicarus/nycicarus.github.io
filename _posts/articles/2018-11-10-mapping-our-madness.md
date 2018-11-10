@@ -16,7 +16,7 @@ date: 2015-07-15T22:08:14-05:00
 
 This is the Mapping Our Madness Zine
 
-From the intro:
+From the cover:
 
-"xxx"
+"A workbook for navigating crisis, extreme states, or just foul moods."
 [Download this from this site](/images/MappingOurMadness.pdf)
