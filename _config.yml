@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Bipolar Artists Union
-description: "Bipolar Artists Union Website."
+title: The Icarus Project NYC
+description: "Website for The Icarus Project NYC, a mental health grassroots organization commited to advocacy, community, and the creative arts."
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: https://bipolarartist.org
+url: //nycicarus.github.io
 
 # Jekyll configuration
 
@@ -24,17 +24,17 @@ future: true
 
 # Site owner
 owner:
-  name: Curt White
-  web: https://bipolarartist.org
-  email: curtpw@gmail.com
-  twitter: 
-  bio: "Curt is an artist, engineer and mental health activist."
+  name: NYC Icarus
+  web: http://nycicarus.org
+  email: nycicarus@gmail.com
+  twitter: nycicarus
+  bio: "The Icarus Project NYC is a mental health grassroots organization commited to advocacy, community, and the creative arts."
   avatar: logo-avatar-160x160.png # 160x160 px image for author byline
   google:
     plus: 
     ad-client: 
     ad-slot: 
-  disqus-shortname: 
+  disqus-shortname: nycicarus
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
