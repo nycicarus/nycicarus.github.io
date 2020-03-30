@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Seeking care in institutional settings"
+title: "Madness, Creativity, and the Artistic Pursuit with Issa Ibrahim"
 categories: events
 description: ""
 excerpt: "NYC Icarus brings together our community to Seeking care in institutional settings"
@@ -12,7 +12,7 @@ image:
   feature: nycicarus_birds.png
   credit: 
   creditlink: 
-event-date: "Wednesday, March 6th, 2019"
+event-date: "Wednesday, Dec 4th, 2019"
 event-time: "7:00 pm - 9:00 pm"
 location: "Bluestockings Books"
 location-street: "172 Allen Street"
@@ -62,7 +62,7 @@ And then we’ll hang out for a little while and be gone until another month. Ma
 [NYC Icarus website](http://nycicarus.org/)
 
 
-DATE: Feb. 6th, 2019
+DATE: Dec. 4th, 2019
 
 TIME: 7pm
 
