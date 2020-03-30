@@ -62,7 +62,7 @@ And then we’ll hang out for a little while and be gone until another month. Ma
 [NYC Icarus website](http://nycicarus.org/)
 
 
-DATE: Feb. 6th, 2019
+DATE: Mar. 6th, 2019
 
 TIME: 7pm
 
