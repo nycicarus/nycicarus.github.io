@@ -8,8 +8,8 @@ tags: [ community, discussion]
 comments: true
 ads: false
 image:
-  teaser: nycicarus_birds_400x250.png
-  feature: nycicarus_birds.png
+  teaser: 2019-03-06.jpg
+  feature: 2019-03-06.jpg
   credit: 
   creditlink: 
 event-date: "Wednesday, March 6th, 2019"
@@ -22,31 +22,27 @@ email: ""
 phone: ""
 ---
 
-#### LOSS AND  MOURNING
+#### The Institutions Will Not Save Us
 
+Join us for this month’s Icarus NYC gathering, where we will share personal narratives of survival within institutional settings. This includes within universities, where mental health services often align with the interests of the school and liability rather than for students themselves. In this way, college is the beginning of learning about being penalized for having mental health concerns, being neurodivergent, or having needs that don’t align with capitalistic systems of manufacturing knowledge. This also includes psychiatric institutions, where many of our siblings and comrades are currently living or forced to be confined against their will. Purportedly institutionalized on the basis of safety or treatment, psychiatric hospitals instead serve to control those deemed unfit for society. In addition, for those of us working within psychiatric institutions as peers or clinicians, these systems also take a toll on our humanity as well, as we mediate between contributing to the system versus working within it towards change (or revolt). In this Icarus event, we will come together to explore the questions: Where can we find freedom? What are the shackles that bind us? Can we move towards freedom together?
 
+ 
 
-Join us for this month’s Icarus gathering, where we will come together to share experiences of loss and mourning. This topic is open to whatever it means to you. We will come together to support each other and explore how we make meaning from endings. This include endings of all kinds; mourning of the passing of significant others, coping with the ending of relationships, or the loss of our past selves in relation to these significant changes in our lives. The loss of certain identities and ways of being in this mad world, loss of hopes for the future or visions of freedom and the melancholia that comes from increasing awareness of the vast depth of inequalities, of oppressions that prevent us from actualizing our true selves. The Permanent Loss, giving up, and acceptance of No Longer having, of leaning into our traumas and inter-generational pasts binding us to ancestors – in stark contrast to the “upward ladder” liberation offered by neoliberal capitalism. And yet, what is lost can be found. What can’t be found, can be re-grown. And what can’t be regrown, can be created. Let’s create a space together; in between endings and beginnings.
 #### EVENT AGENDA:
-
-General Breakdown:
-
 * our project introduction
-
 * shared reading of our Community Agreements
-
 * group Introductions and Safety Guidelines
 
-* Group Discussion
+* Sharing of artwork/music/written work 
 
+* reading excerpt from article by Esmé Weijun Wang
+[https://www.nhregister.com/news/article/Esme-Weijun-Wang-Yale-Will-Not-Save-You-13546759.php]
+
+* Experiences within Educational Institutions – lead by two organizer/facilitators
+
+* Story circle
 * Movement Activity
-
-* Sharing of support and resources
-
-* Closing Activity
-
 * Check Out
-
 
 TRANSPARENCY:
 Though we are committed to collective liberation and are a mixed race collective, our history has traditionally brought in white, middle class people. In order to protect Queer Trans People of Color (QTPOC) from tokenization and psychic harm, we as a collective commit to prioritizing the needs of QTPOC in our public events and promoting QTPOC leadership in our collective. We acknowledge the emotional labor that QTPOC may perform in these spaces, which often go unrecognized. Therefore, we want white cisgender people to independently undo racism, gender binarism / sexism, while remaining accountable to QTPOC. We are currently engaging in an ongoing process of integrating these goals internally within our organization, among our mixed race organizers, and within the structuring of our external events. *
@@ -57,7 +53,7 @@ Bluestockings is wheelchair accessible, with no steps or platforms, and wide ais
 
 And then we’ll hang out for a little while and be gone until another month. Make sure to sign-up for the mailing list at the event or email nycicarus@gmail.com.
 
-[NYC Icarus FB event](https://www.facebook.com/events/1055263221324032/)
+[NYC Icarus FB event](https://www.facebook.com/events/258172651768141/)
 
 [NYC Icarus website](http://nycicarus.org/)
 
