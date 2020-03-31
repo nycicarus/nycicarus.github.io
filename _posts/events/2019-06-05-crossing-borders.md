@@ -34,35 +34,35 @@ And considering intersectionality, multiple borders can be crossed together. (eg
 ------------------
 
 You might be a :
-GNC who is trying to pass as a binary gender/
-Gay person trying to pass as straight/
-Lesbian trying to pass as straight/
-Trans who is trying to pass as CIS/
-Neurodiverse person (autistic, OCD, ADHD) trying to pass as Neurotypical/
-Mad (psychosis, voice hearer, anxious, etc) trying to pass as sane/
-person who is undocumented trying to pass as a citizen/
-person who deals with trauma(sex/murder/relationship/family/etc) who tries cope with it rather than asserting boundaries or requesting accommodations. 
-person who was born into a caste trying to pass as uncasted or a higher caste
-Person who have hearing loss and tries to pass as hearing
-Person who has illiterate and tries to pass as literate 
-Person who appears white and tries to pass as white
-Person trying to pass as more able-bodied/ 
-Person who feels pressure to comply with varying self repression that may come from forced social acclimation. 
+* GNC who is trying to pass as a binary gender/
+* Gay person trying to pass as straight/
+* Lesbian trying to pass as straight/
+* Trans who is trying to pass as CIS/
+* Neurodiverse person (autistic, OCD, ADHD) trying to pass as Neurotypical/
+* Mad (psychosis, voice hearer, anxious, etc) trying to pass as sane/
+* person who is undocumented trying to pass as a citizen/
+* person who deals with trauma(sex/murder/relationship/family/etc) who tries cope with it rather than asserting boundaries or requesting accommodations. 
+* person who was born into a caste trying to pass as uncasted or a higher caste
+* Person who have hearing loss and tries to pass as hearing
+* Person who has illiterate and tries to pass as literate 
+* Person who appears white and tries to pass as white
+* Person trying to pass as more able-bodied/ 
+* Person who feels pressure to comply with varying self repression that may come from forced social acclimation. 
  
 You might be a: 
-person who was fat and now is not fat/
-person who was poor and is not poor/
-person who was unhoused who is now housed/
-person who was undocumented who is now a citizen/
-person who was taught to appreciate the natural female body and now chooses to wear makeup/
-person who was taught to appreciate your natural hair and now choose to wear westernized styles/
-Person who was incarcerated and now is in the community
-Person who had a visible disability and its not visible or cured
-Person who didn’t use hearing aids and who now uses them
-Person who served in combat and now is in civilian life
-Person who lived in a war zone and now lives in more stable society 
-Person who experienced depression and now doesn’t.
-Person who experienced active substance use issues and now practices harm reduction and/or abstinence #### EVENT AGENDA:
+* person who was fat and now is not fat/
+* person who was poor and is not poor/
+* person who was unhoused who is now housed/
+* person who was undocumented who is now a citizen/
+* person who was taught to appreciate the natural female body and now chooses to wear makeup/
+* person who was taught to appreciate your natural hair and now choose to wear westernized styles/
+* Person who was incarcerated and now is in the community
+* Person who had a visible disability and its not visible or cured
+* Person who didn’t use hearing aids and who now uses them
+* Person who served in combat and now is in civilian life
+* Person who lived in a war zone and now lives in more stable society 
+* Person who experienced depression and now doesn’t.
+* Person who experienced active substance use issues and now practices harm reduction and/or abstinence #### EVENT AGENDA:
 
 General Breakdown:
 
