@@ -3,7 +3,7 @@ layout: article
 title: "Examining Ourselves: A Community Conversation"
 categories: events
 description: ""
-excerpt: "NYC Icarus brings together our community to Seeking care in institutional settings"
+excerpt: "NYC Icarus brings together our community to examine ourselves"
 tags: [ community, discussion]
 comments: true
 ads: false
