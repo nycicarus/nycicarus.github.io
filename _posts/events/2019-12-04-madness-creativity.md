@@ -3,7 +3,7 @@ layout: article
 title: "Madness, Creativity, and the Artistic Pursuit with Issa Ibrahim"
 categories: events
 description: ""
-excerpt: "NYC Icarus brings together our community to Seeking care in institutional settings"
+excerpt: "NYC Icarus brings together our community to Seek creativity"
 tags: [ community, discussion]
 comments: true
 ads: false
@@ -22,14 +22,17 @@ email: ""
 phone: ""
 ---
 
-#### LOSS AND  MOURNING
+#### MADNESS AND CREATIVITY
 
+The Icarus Project began with the realization that Madness can be a great source of inspiration and creativity, with the goal of learning how to navigate between being inspired by Madness while remaining grounded in the world.  Madness and altered states of mind provide alternative frameworks and perspectives on reality, and madness can become a source of great wisdom and an inspiration for incredible art.  The artist is someone who sees the world in a novel way and pushes the boundaries of the possible, using a medium to express ideas and communicate their observation on the world and the human condition. Sascha Altman DuBrul, one of the original founders of the Icarus Project, pursued creative expression through punk rock.  
 
+Historically, art, pain, and madness were seen as being intimately linked. Whether through painting, sketching, musical performance, creative writing, journaling, or dance, creative expression and the use of a medium provide us with ways of externalizing, manifesting, and exploring our thoughts, our struggles, our anxieties, our observations, and our dreams.
 
-Join us for this month’s Icarus gathering, where we will come together to share experiences of loss and mourning. This topic is open to whatever it means to you. We will come together to support each other and explore how we make meaning from endings. This include endings of all kinds; mourning of the passing of significant others, coping with the ending of relationships, or the loss of our past selves in relation to these significant changes in our lives. The loss of certain identities and ways of being in this mad world, loss of hopes for the future or visions of freedom and the melancholia that comes from increasing awareness of the vast depth of inequalities, of oppressions that prevent us from actualizing our true selves. The Permanent Loss, giving up, and acceptance of No Longer having, of leaning into our traumas and inter-generational pasts binding us to ancestors – in stark contrast to the “upward ladder” liberation offered by neoliberal capitalism. And yet, what is lost can be found. What can’t be found, can be re-grown. And what can’t be regrown, can be created. Let’s create a space together; in between endings and beginnings.
-#### EVENT AGENDA:
+In this Icarus-NYC gathering, we will be joined by two NYC artists who identify as Mad – Issa Ibrahim and Susan Spangenberg. Issa's and Susan’s art explores their own experiences with madness, the social and political representation of madness, and madness in the context of the mental health services system. Susan is a multimedia artist who uses her art in satirical, subversive, and ironic ways to draw attention to the problems, limitations, and abuses present in mental health system. Issa is a painter, instrumentalist and vocalist, short film and independent music videos producer  and the author of a book – The Hospital Always Wins – an autobiographical work exploring his experience with long term hospitalization at Creedmore Hospital. Issa has also appeared on interviews with the Daily Beast,  NPR, and WNYC discussing his art, his own experiences with madness, and the mental health services establishment. Issa and Susan are resident artists of the independent Issues Gallery and regularly display their art at exhibitions in various venues through NYC. Issa's work is on display at the Living Museum, an in-house art gallery at Creedmore Hospital.  Issa and Susan can regularly be found doing presentations of their work at art exhibitions at the Fountain House, shooting independent music videos, and keeping company to Schizo and Cray Cray, their two resident crazy cats.
 
-General Breakdown:
+During the gathering, Issa and Susan will discuss their artwork, how they use art as a creative and expressive medium to communicate ideas, and their sources of inspiration.  We will also explore how art and various creative outlets can be used as a means to explore ourselves and our minds, and the use of art in the context of self care and relaxation.#### EVENT AGENDA:
+
+#### General Breakdown:
 
 * our project introduction
 
@@ -57,7 +60,7 @@ Bluestockings is wheelchair accessible, with no steps or platforms, and wide ais
 
 And then we’ll hang out for a little while and be gone until another month. Make sure to sign-up for the mailing list at the event or email nycicarus@gmail.com.
 
-[NYC Icarus FB event](https://www.facebook.com/events/1055263221324032/)
+[NYC Icarus FB event](https://www.facebook.com/events/743708429442363/)
 
 [NYC Icarus website](http://nycicarus.org/)
 
