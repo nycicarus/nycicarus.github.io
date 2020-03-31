@@ -3,7 +3,7 @@ layout: article
 title: "Challenging Social Conformity and Cultivating Self-Care"
 categories: events
 description: ""
-excerpt: "NYC Icarus brings together our community to Seeking care in institutional settings"
+excerpt: "NYC Icarus brings together our community to challange social conformity"
 tags: [ community, discussion]
 comments: true
 ads: false
@@ -22,11 +22,16 @@ email: ""
 phone: ""
 ---
 
-#### LOSS AND  MOURNING
+#### SOCIAL CONFORMITY
 
+In this monthly Icarus-NYC gathering, we will touch upon an eclectic range of topics, depending on the needs of the community and requests of those in attendance.  We will discuss how we can attend to our personal growth and development, strengthen strategies for self-care during times of difficulty and struggle, and offer mutual support in the context of a listening circle.  We will discuss issues of marginalization, privilege, strategies for selecting psychotherapists for those who may be interested in pursuing these modalities, and what it means to cultivate family, friends, and community in a large and sometimes impersonal city.  We will discuss what it means to be "sane" or "mad" in a mad world, how to remain true to ourselves, and how we can cultivate our unique qualities into points of strength and growth. 
 
+Icarus-NYC welcomes everyone, in the spirit of Mad Pride, Mad Gifts, and mutual support in a friendly and open community, irrespective of what our current relationship with the dominant systems and narratives may be -- we invite and welcome all to our non-hierarchical, anti-oppressive community.
+
+We will begin and end the gathering with a brief guided meditation and centering exercise, as a way of creating an atmosphere conducive to relaxed alertness, inner reflection, and embodiment in self and in space.
 
 Join us for this month’s Icarus gathering, where we will come together to share experiences of loss and mourning. This topic is open to whatever it means to you. We will come together to support each other and explore how we make meaning from endings. This include endings of all kinds; mourning of the passing of significant others, coping with the ending of relationships, or the loss of our past selves in relation to these significant changes in our lives. The loss of certain identities and ways of being in this mad world, loss of hopes for the future or visions of freedom and the melancholia that comes from increasing awareness of the vast depth of inequalities, of oppressions that prevent us from actualizing our true selves. The Permanent Loss, giving up, and acceptance of No Longer having, of leaning into our traumas and inter-generational pasts binding us to ancestors – in stark contrast to the “upward ladder” liberation offered by neoliberal capitalism. And yet, what is lost can be found. What can’t be found, can be re-grown. And what can’t be regrown, can be created. Let’s create a space together; in between endings and beginnings.
+
 #### EVENT AGENDA:
 
 General Breakdown:
@@ -57,7 +62,7 @@ Bluestockings is wheelchair accessible, with no steps or platforms, and wide ais
 
 And then we’ll hang out for a little while and be gone until another month. Make sure to sign-up for the mailing list at the event or email nycicarus@gmail.com.
 
-[NYC Icarus FB event](https://www.facebook.com/events/1055263221324032/)
+[NYC Icarus FB event](https://www.facebook.com/events/444894233037833/)
 
 [NYC Icarus website](http://nycicarus.org/)
 
