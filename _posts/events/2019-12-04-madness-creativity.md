@@ -30,9 +30,9 @@ Historically, art, pain, and madness were seen as being intimately linked. Wheth
 
 In this Icarus-NYC gathering, we will be joined by two NYC artists who identify as Mad – Issa Ibrahim and Susan Spangenberg. Issa's and Susan’s art explores their own experiences with madness, the social and political representation of madness, and madness in the context of the mental health services system. Susan is a multimedia artist who uses her art in satirical, subversive, and ironic ways to draw attention to the problems, limitations, and abuses present in mental health system. Issa is a painter, instrumentalist and vocalist, short film and independent music videos producer  and the author of a book – The Hospital Always Wins – an autobiographical work exploring his experience with long term hospitalization at Creedmore Hospital. Issa has also appeared on interviews with the Daily Beast,  NPR, and WNYC discussing his art, his own experiences with madness, and the mental health services establishment. Issa and Susan are resident artists of the independent Issues Gallery and regularly display their art at exhibitions in various venues through NYC. Issa's work is on display at the Living Museum, an in-house art gallery at Creedmore Hospital.  Issa and Susan can regularly be found doing presentations of their work at art exhibitions at the Fountain House, shooting independent music videos, and keeping company to Schizo and Cray Cray, their two resident crazy cats.
 
-During the gathering, Issa and Susan will discuss their artwork, how they use art as a creative and expressive medium to communicate ideas, and their sources of inspiration.  We will also explore how art and various creative outlets can be used as a means to explore ourselves and our minds, and the use of art in the context of self care and relaxation.#### EVENT AGENDA:
+During the gathering, Issa and Susan will discuss their artwork, how they use art as a creative and expressive medium to communicate ideas, and their sources of inspiration.  We will also explore how art and various creative outlets can be used as a means to explore ourselves and our minds, and the use of art in the context of self care and relaxation.
 
-#### General Breakdown:
+#### EVENT AGENDA:
 
 * our project introduction
 
