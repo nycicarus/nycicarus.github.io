@@ -62,7 +62,9 @@ You might be a:
 * Person who served in combat and now is in civilian life
 * Person who lived in a war zone and now lives in more stable society 
 * Person who experienced depression and now doesn’t.
-* Person who experienced active substance use issues and now practices harm reduction and/or abstinence #### EVENT AGENDA:
+* Person who experienced active substance use issues and now practices harm reduction and/or abstinence 
+
+#### EVENT AGENDA:
 
 General Breakdown:
 
