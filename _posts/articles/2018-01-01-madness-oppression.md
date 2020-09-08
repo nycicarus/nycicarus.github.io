@@ -17,9 +17,9 @@ This publication is about madness and oppression. It lists many sources of oppre
 
 Download this publication in English:
 
-[from The Icarus Project website](http://theicarusproject.net/wp-content/uploads/2017/10/MadnessAndOppressionGuide-compressed.pdf)
+~~[from The Icarus Project website](http://theicarusproject.net/wp-content/uploads/2017/10/MadnessAndOppressionGuide-compressed.pdf)~~
 
-~~[from this site](/images/MadnessAndOppressionGuide-compressed.pdf)~~
+[from this site](/images/MadnessAndOppressionGuide-compressed.pdf)
 
 Download this publication in Spanish:
 
