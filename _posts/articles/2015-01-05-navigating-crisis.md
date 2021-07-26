@@ -18,4 +18,4 @@ This four-page handout was edited by Clarextina and Will and Icarus member contr
 
 ~~[Download this Publication](https://theicarusproject.net/wp-content/uploads/2016/08/IcarusNavigatingCrisisHandoutLarge05-09.pdf)(broken in 2020 after change to fireweed website)~~
 
-[Download this Publication](/images/IcarusNavigatingCrisisHandoutLarge05-09 (1).pdf) (from this website)
+[Download this Publication]("/images/IcarusNavigatingCrisisHandoutLarge05-09 (1).pdf") (from this website)
