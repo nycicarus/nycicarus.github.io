@@ -1,7 +1,7 @@
 ---
 layout: resource
 title: "2016 April: Advanced Directives resources"
-categories: resources-removed
+categories: resources
 description: "These are the pdf files mentioned in our Bluestocking presentation for April 2016"
 excerpt: "A list of resources from the April 2016 presentation"
 modified: 2016-04-01
