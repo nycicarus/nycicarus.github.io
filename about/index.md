@@ -14,19 +14,19 @@ ads: false
 
 <a href="{{ site.url }}/contact/" class="btn">Contact NYC Icarus</a>
 
-##Icarus Project Mission Statement
+## Icarus Project Mission Statement
 
 The Icarus Project is a support network and media project by and for people who experience the world in ways that are often diagnosed as mental illness. We advance social justice by fostering mutual aid practices that reconnect healing and collective liberation. We transform ourselves through transforming the world around us.
 
 
-##Icarus Project Vision Statement
+## Icarus Project Vision Statement
 
 The Icarus Project seeks to overcome the limitations of a world determined to label, categorize, and sort human behavior. We envision a new culture that allows the space and freedom for exploring different states of being, and recognizes that breakdown can be the entrance to breakthrough. We aim to create a language that is so vast and rich that it expresses the infinite diversity of human experiences. We demand more options in understanding and navigating emotional distress and we want everyone to have access to these options, regardless of status, ability, or identity.
 
 The Icarus Project helps us overcome alienation and tap into the true potential that lies between brilliance and madness. We are members of a group that has been misunderstood and persecuted throughout history, but has also been responsible for some of the world’s most extraordinary creations. Sensitivities, visions, and inspirations are not necessarily symptoms of illness, they are gifts needing cultivation and care. When honored and nurtured, these gifts can lay the foundation for a wiser and more compassionate society. As a mutual aid community, we intertwine threads of madness and creativity to inspire hope and transformation in an oppressive and damaged world.
 
 
-##OUR PRINCIPLES:
+## OUR PRINCIPLES:
 
 1. Self-Determination. We honor the language people use for understanding their experiences and we respect how people choose to navigate their distress. We embrace diversity, harm-reduction and self-determination. Everyone is welcome, whether they support the use of psychiatric drugs or not, and whether they identify with diagnostic categories or not.
 
