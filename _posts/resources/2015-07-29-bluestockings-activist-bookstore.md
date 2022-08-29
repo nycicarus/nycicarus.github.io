@@ -9,7 +9,7 @@ tags: [Activism , Free events , Volunteering]
 comments: true
 ads: false
 image:
-  teaser: bluestocking-resource-400x250.png
+  teaser: [https://secretnyc.co/wp-content/uploads/2022/05/New-Project-18-1024x683.png](Bluestockings){:height="136px" width="136px"}
   feature: bluestockings-resource-1600x800.png
   credit: NYC Icarus
   creditlink: http://www.nycicarus.org
