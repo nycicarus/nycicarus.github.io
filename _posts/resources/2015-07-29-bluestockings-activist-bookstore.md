@@ -9,10 +9,10 @@ tags: [Activism , Free events , Volunteering]
 comments: true
 ads: false
 image:
-  teaser: "https://secretnyc.co/wp-content/uploads/2022/05/New-Project-18-1024x683.png"
-  feature: bluestockings-resource-1600x800.png
-  credit: NYC Icarus
-  creditlink: http://www.nycicarus.org
+  teaser: Bsox-1024x683.png
+  feature: Bsox-1024x683.png
+  credit: Secret NYC
+  creditlink: "https://secretnyc.co/wp-content/uploads/2022/05/New-Project-18-1024x683.png"
 resource-date: "Every day"
 resource-time: "11am to 7pm Tuesday-Sunday/1pm to 7pm on Mondays"
 location: "Bluestockings"
