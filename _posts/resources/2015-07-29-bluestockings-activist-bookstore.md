@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: "Bluestockings Bookstore & Activist Center"
+title: "Bluestockings Cooperative Bookstore"
 categories: resources
 description: "Bluestockings is a 100% volunteer-powered and collectively-owned bookstore, fair trade cafe, and activist center in the Lower East Side of Manhattan."
 excerpt: "Bluestockings is a 100% volunteer-powered and collectively-owned bookstore, fair trade cafe, and activist center in the Lower East Side of Manhattan. Bluestockings carries over 6,000 titles on topics such as feminism, queer and gender studies, global capitalism, climate & environment, political theory, police and prisons, race and black studies, radical education, plus many more!"
@@ -14,13 +14,13 @@ image:
   credit: NYC Icarus
   creditlink: http://www.nycicarus.org
 resource-date: "Every day"
-resource-time: "11:00 am – 11:00 pm"
+resource-time: "11am to 7pm Tuesday-Sunday/1pm to 7pm on Mondays"
 location: "Bluestockings"
-location-street: "172 Allen Street"
+location-street: "116 Suffolk St"
 location-city-state: "New York, New York 10002"
 website: "http://www.bluestockings.com"
 email: "info@bluestockings.com"
-phone: "(212) 777-6028"
+phone: "(917) 409-0440"
 
 ---
 
