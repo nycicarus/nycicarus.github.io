@@ -9,8 +9,8 @@ tags: [Activism , Free events , Volunteering]
 comments: true
 ads: false
 image:
-  teaser: Bsox-1024x683.png
-  feature: Bsox-1024x683.png
+  teaser: ![Bluestockings](Bsox-1024x683.png)
+  feature: ![Bluestockings](Bsox-1024x683.png)
   credit: Secret NYC
   creditlink: "https://secretnyc.co/wp-content/uploads/2022/05/New-Project-18-1024x683.png"
 resource-date: "Every day"
