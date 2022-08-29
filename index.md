@@ -42,7 +42,7 @@ image:
   <h2 class="post-title">Community</h2>
   <p class="post-excerpt">We hold <a href="/events">regular events, workshops and celebrations</a>. We have an active twitter account and an online community at Facebook.
     <br/><a href="https://www.facebook.com/IcarusProjectNewYorkCity" class="btn">NYCIcarus Facebook</a><br/>
-    <a href="https://twitter.com/nycicarus" class="btn">@NYCIcarus Twitter</a></p>
+    <a href="https://twitter.com/NycIcarusOrg" class="btn">@NycIcarusOrg Twitter</a></p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
