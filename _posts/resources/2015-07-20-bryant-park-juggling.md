@@ -9,8 +9,8 @@ tags: [Athletics , Free events , Outdoors]
 comments: true
 ads: false
 image:
-  teaser: [Bluestockings](resource-default-400x250.png)
-  feature: [Bluestockings](resource-default-400x250.png)
+  teaser: ![Bluestockings](resource-default-400x250.png)
+  feature: ![Bluestockings](resource-default-400x250.png)
   credit: 
   creditlink: 
 resource-date: "Some Days"
