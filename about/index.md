@@ -39,3 +39,4 @@ The Icarus Project helps us overcome alienation and tap into the true potential 
 5. Access. We demand more options in understanding and navigating emotional distress and we want everyone to have access to these options, regardless of status, ability, and identity. We seek to create spaces and resources that enable the inclusion of all people.
 
 6. Social Justice. We recognize that we all live in a crazy world and that too many of us struggle due to ongoing legacies of abuse, colonization, racism, ableism, sexism, and other interlocking forms of oppression. We affirm that social justice is the foundation of healthy societies and foster supportive relationships free of violence and oppression.
+<a rel="me" href="https://toot.cat/@kevix">Mastodon</a>
