@@ -29,7 +29,7 @@ phone: ""
 
 Join us for a hands-on workshop exploring collaborative creativity and non-verbal expression. We will be collectively expressing and exploring resonant emotions by interpreting them as sounds with our voices and bodies as well as by translating them into live internet soundscapes and real-world visual collages. The event will end with a discussion in which group members investigate their experiences and articulate what stood out to them, what emotions came up for them, what meaning the experience had (or didn’t have) for them, and what they think the larger implications of their experience might be.
 
-Guest facilitator Josh Krieble will also be talking a bit about PROPELLER, a wellness initiative that hosts social/creative safe-spaces or “non-support groups” for people experiencing mental health issues and extreme states.
+A Guest facilitator will also be talking a bit about PROPELLER, a wellness initiative that hosts social/creative safe-spaces or “non-support groups” for people experiencing mental health issues and extreme states.
 
 Facebook Event: [NYC Icarus Out of Words Workshop](https://www.facebook.com/events/556225774525456/)
 
