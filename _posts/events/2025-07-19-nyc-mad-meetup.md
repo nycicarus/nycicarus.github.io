@@ -9,8 +9,8 @@ tags: [ crafts , multimedia , workshop ]
 comments: true
 ads: false
 image:
- teaser: out-of-words-400x.jpg
- feature: out-of-words.jpg
+ teaser: nyc-mad-logo.jpg
+ feature: nyc-mad-logo.jpg
  credit:
  creditlink:
 event-date: "Saturday, July 19th, 2025"
