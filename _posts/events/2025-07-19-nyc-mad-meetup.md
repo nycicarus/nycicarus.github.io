@@ -25,7 +25,7 @@ phone: ""
 \#\#\# NYC Mad community \- NYC Summer Mad Creative Meetup
 
 \#\#\#\# Join us at Riverbank State Park for an afternoon of art and community making  
-\#\#\#\# Co-hosted by \[spectacularthoughts\](https://www.instagram.com/spectacularthoughts/)and \[unshrink.\_yourself\](https://www.instagram.com/unshrink.\_yourself/)  
+\#\#\#\# Co-hosted by \[spectacularthoughts\](https://www.instagram.com/spectacularthoughts/) and \[unshrink.\_yourself\](https://www.instagram.com/unshrink.\_yourself/)  
 Join us for a hands-on workshop exploring creativity and community. We will be collectively expressing and exploring art making in community. If you'd like, you can bring supplies to create art or prepare to create and share poetry. Feel free to bring an idea for our activities\!  
 We are building a mad/mmind/psych survivor community in nyc.
 
