@@ -1,26 +1,26 @@
 ---
-layout: article  
-title: "NYC Summer Mad Creative Meetup"  
-categories: events  
+layout: article
+title: "NYC Summer Mad Creative Meetup"
+categories: events
 description: "Creative meetup"  
-excerpt: "Join ‘nyc mad community’ (@nycmadcommunity from Instagram) at Riverbank State Park on July 19th, 2025 for an afternoon of art expression or exploration in community"  
-modified: 2025-06-19T11:57:41-04:00  
-tags: [ crafts , multimedia , workshop ]  
-comments: true  
-ads: false  
-image:  
-  teaser: out-of-words-400x.jpg  
-  feature: out-of-words.jpg  
-  credit:   
-  creditlink:   
-event-date: "Saturday, July 19th, 2025"  
-event-time: "3:00 pm - 7:00 pm"  
-location: "Riverbank State Park"  
-location-street: "679 Riverside Drive”  
-location-city-state: "New York, NY 10031"  
-website: "https://parks.ny.gov/parks/93/details.aspx"  
-email: ""  
-phone: ""  
+excerpt: "Join ‘nyc mad community’ (@nycmadcommunity from Instagram) at Riverbank State Park on July 19th, 2025 for an afternoon of art expression or exploration in community"
+modified: 2025-06-19T11:57:41-04:00
+tags: [ crafts , multimedia , workshop ]
+comments: true
+ads: false
+image:
+ teaser: out-of-words-400x.jpg
+ feature: out-of-words.jpg
+ credit:
+ creditlink:
+event-date: "Saturday, July 19th, 2025"
+event-time: "3:00 pm - 7:00 pm"
+location: "Riverbank State Park"
+location-street: "679 Riverside Drive"
+location-city-state: "New York, NY 10031" 
+website: "https://parks.ny.gov/parks/93/details.aspx" 
+email: "" 
+phone: ""
 ---  
 ### NYC Mad community - NYC Summer Mad Creative Meetup
 
