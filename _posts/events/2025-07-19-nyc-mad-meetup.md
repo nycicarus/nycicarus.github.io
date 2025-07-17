@@ -14,7 +14,7 @@ image:
  credit:
  creditlink:
 event-date: "Saturday, July 19th, 2025"
-event-time: "2:00 pm - 6:00 pm"
+event-time: "2:00 pm - 4:00 pm"
 location: "Riverbank State Park"
 location-street: "679 Riverside Drive"
 location-city-state: "New York, NY 10031" 
