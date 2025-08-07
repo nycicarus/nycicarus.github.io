@@ -9,8 +9,8 @@ tags: [ crafts , multimedia , workshop ]
 comments: true
 ads: false
 image:
- teaser: nyc-mad-logo.jpg
- feature: nyc-mad-logo.jpg
+ teaser: 2025-08-29-mad-event.jpg
+ feature: 2025-08-29-mad-event.jpg
  credit:
  creditlink:
 event-date: "Friday, August 29th, 2025"
