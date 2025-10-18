@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Mad community monthly meetup"
+title: "Mad community November meetup"
 categories: events
 description: "Discussion and Social meetup"  
 excerpt: "Join the nyc mad community (@nycmadcommunity from Instagram) at Pier 57 (25 11th Ave New York, NY 10011) on November 1st, 2025 from 4-630pm for an early evening discussion circle and social event in mad community"
@@ -23,7 +23,7 @@ email: ""
 phone: ""
 ---  
 ### This is not an NYC icarus event. This is a boost.
-### NYC Mad community monthly meetup
+### NYC Mad community november meetup
 #### Join us at Pier 57 for a late afternoon discussion circle and social event for mad community making  
 #### Hosted by [Spectacularthoughts](https://www.instagram.com/spectaculaurthoughts/) and [Unshrink._yourself](https://www.instagram.com/unshrink._yourself/)
 Gathering Schedule:
