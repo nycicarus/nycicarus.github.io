@@ -28,7 +28,11 @@ phone: ""
 #### Hosted by [Spectacularthoughts](https://www.instagram.com/spectaculaurthoughts/) and [Unshrink._yourself](https://www.instagram.com/unshrink._yourself/)
 Gathering Schedule:
 4 pm - 5 pm:  Mad and S.A.D. (discussion circle) - a space to talk about seasonal mood changes, holiday concerns, and getting through the winter.
+
 5 pm - 6:30 pm: Games/Social - Bring a game, join someone else’s, or just stay to chat!
+
 COVID Precautions: This is an indoor event, so we're asking that you wear a mask. If you don't have one, we will provide one for you.
+
 REGISTRATION: https://docs.google.com/forms/d/e/1FAIpQLSdkEUnBOD7eDKEIXK1yD-IDBueZW05Wj7x-dvHtRyyuK6Es5Q/viewform
+
 Hope to see you there!
