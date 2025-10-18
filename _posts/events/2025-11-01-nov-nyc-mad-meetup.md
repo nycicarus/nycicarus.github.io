@@ -24,7 +24,7 @@ phone: ""
 ---  
 ### This is not an NYC icarus event. This is a boost.
 ### NYC Mad community november meetup
-#### Join us at Pier 57 for a late afternoon discussion circle and social event for mad community making  
+#### Join us on November 1st, 2025, at Pier 57 for a late afternoon discussion circle and social event for mad community making  
 #### Hosted by [Spectacularthoughts](https://www.instagram.com/spectaculaurthoughts/) and [Unshrink._yourself](https://www.instagram.com/unshrink._yourself/)
 Gathering Schedule:
 
