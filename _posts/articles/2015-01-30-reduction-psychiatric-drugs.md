@@ -11,7 +11,7 @@ image:
   credit: 
   creditlink: 
   thumb: reduction-psychiatric-drugs-400x250.png
-date: 2015-07-29T22:08:14-05:00
+date: 2026-05-29T22:08:14-05:00
 ---
 
 The Icarus Project and [Freedom Center](http://www.freedom-center.org/)
@@ -32,8 +32,6 @@ What are some of the differences with the new Second Edition? More than twice as
 
 [Download this Publication](http://www.willhall.net/files/ComingOffPsychDrugsHarmReductGuide2Edonline.pdf)
 
-[Publication Translations](https://theicarusproject.net/resources/publications/harm-reduction-guide-to-coming-off-psychiatric-drugs-and-withdrawal/)
-
-[Read about the creation of the 2nd edition of this guide (old link)](http://legacy.theicarusproject.net/content/coming-medications-guide-second-edition)
-
+[Publication Translations (2026 update)](https://fireweedcollective.org/publication/harm-reduction-guide-to-coming-off-psychiatric-drugs/)
+[Read about the creation of the 2nd edition of this guide (from 2019)](https://web.archive.org/web/20190719203500/http://legacy.theicarusproject.net/content/coming-medications-guide-second-edition)
 [Download the audiobook (2017)](http://www.madnessradio.net/audio/ComingOffPsychDrugsHarmReductGuide-Audiobok.mp3)
